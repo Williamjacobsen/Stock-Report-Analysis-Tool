@@ -1,8 +1,6 @@
 import PyPDF2
 
 def ExtractTraningDataFromPDF(pdf_path):
-    total_lines_count = 0
-
     with open(pdf_path, "rb") as file:
         reader = PyPDF2.PdfReader(file)
         for page in reader.pages:
@@ -16,12 +14,10 @@ def ExtractTraningDataFromPDF(pdf_path):
                     continue
 
                 print(f'"{line}",')
-    
-    print(f"Total matching lines: {total_lines_count}")
 
 if __name__ == "__main__":
     import os
     os.system('cls')
 
-    pdf_path = "../report2.pdf"
+    pdf_path = "../aapl2023.pdf"
     ExtractTraningDataFromPDF(pdf_path)
