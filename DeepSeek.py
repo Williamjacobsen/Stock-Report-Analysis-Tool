@@ -32,7 +32,7 @@ def SignIntoDeepSeek(scraper):
     # /html/body/div[1]/div[1]/div[2]/div/div/div[2]/div/div[5]
     scraper.ClickElement('/html/body/div[1]/div[1]/div[2]/div/div/div[2]/div/div[5]')
 
-def InitialPrompt(scraper):
+def InitialPrompt(scraper, prompt="Test Prompt"):
     # Wait for prompt field to load
     scraper.LocateElement('/html/body/div[1]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[1]/textarea')
 
@@ -48,7 +48,7 @@ def InitialPrompt(scraper):
     # /html/body/div[1]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[1]/textarea
     scraper.Send_keysElement(
         '/html/body/div[1]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[1]/textarea',
-        'Test Prompt\n'
+        prompt+'\n'
         )
 
 if __name__ == '__main__':
@@ -58,13 +58,13 @@ if __name__ == '__main__':
     scraper = Scraper()
 
     SignIntoDeepSeek(scraper)
-    InitialPrompt(scraper)
+    InitialPrompt(
+        scraper=scraper, 
+        prompt="I will link you pdf file then you need to return every financial value like revenue net income etc."
+        )
 
-    # PROMPT FIELD
-    # /html/body/div[1]/div[1]/div[2]/div[2]/div/div[2]/div/div/div[3]/div[1]/div/div/div[1]/textarea
 
 
-
-    time.sleep(120)
+    input("")
 
     
