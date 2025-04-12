@@ -1,5 +1,5 @@
 import PyPDF2
-from predict import classify_text
+from is_financial_data.is_financial_data import is_financial_data
 
 def ExtractFinancialsFromPDF(pdf_path, output_txt_path):  # This reduced the report size by 80%
     with open(pdf_path, "rb") as file:
@@ -15,13 +15,13 @@ def ExtractFinancialsFromPDF(pdf_path, output_txt_path):  # This reduced the rep
                     if not line:
                         continue
                     
-                    if classify_text(line)[0] == "Numerical Data":
+                    if is_financial_data(line)[0]:
                         txt_file.write(line + '\n')
 
 if __name__ == "__main__":
     import os
     os.system('cls')
 
-    pdf_path = "../msft2021.pdf"
-    output_txt_path = "financials_output_unpolished.txt"
+    pdf_path = "../reports/meta2023.pdf"
+    output_txt_path = "financials.txt"
     ExtractFinancialsFromPDF(pdf_path, output_txt_path)

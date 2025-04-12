@@ -19,5 +19,5 @@ if __name__ == "__main__":
     import os
     os.system('cls')
 
-    pdf_path = "../aapl2023.pdf"
+    pdf_path = "../reports/meta2023.pdf"
     ExtractTraningDataFromPDF(pdf_path)

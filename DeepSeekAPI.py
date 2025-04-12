@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def analyze_financial_data(question, data_path="./ExtractFinancialsFromPDF/financials_output_unpolished.txt"):
+def handle_financial_data(question, data_path="./ExtractFinancialsFromPDF/financials_output_unpolished.txt"):
     try:
         with open(data_path, 'r', encoding='utf-8') as file:
             financial_data = file.read()
@@ -13,7 +13,7 @@ def analyze_financial_data(question, data_path="./ExtractFinancialsFromPDF/finan
         print(f"Error: Data file {data_path} not found")
         return
 
-    prompt = f"""Please turn this random financial data into json format:
+    prompt = f"""Please turn this random financial data into json format with only data from the most recent year, i want all financial values like "revenue", "revenue per product", "net income", "eps (basic)", "eps (diluted)" and much more:
     
     Financial Data:
     {financial_data}
@@ -36,8 +36,8 @@ def analyze_financial_data(question, data_path="./ExtractFinancialsFromPDF/finan
                 {"role": "system", "content": "You are a financial expert analyzing corporate reports."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.3,
-            max_tokens=5000
+            temperature=0.1,
+            max_tokens=8190
         )
         return response.choices[0].message.content
     except Exception as e:
@@ -46,5 +46,5 @@ def analyze_financial_data(question, data_path="./ExtractFinancialsFromPDF/finan
 
 if __name__ == "__main__":
     question = "Please turn this random financial data in to a json format"
-    answer = analyze_financial_data(question)
+    answer = handle_financial_data(question)
     print(answer)

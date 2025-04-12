@@ -1,11 +1,11 @@
-text,label
+financial_data,truth_value
 "first phase <NUM>a trial with oral semaglutide, an",0
-oral formulation of Novo Nordisk’s long-,0
+oral formulation of <DATE> Nordisk’s long-,0
 acting GLP-<NUM> analogue semaglutide using,0
 Emisphere Eligen® technology. The global,0
 PIONEER programme comprises <NUM> clinical,0
 trials in total.,0
-In March <NUM> Novo Nordisk announced,0
+"In <DATE> <DATE>, <DATE> Nordisk announced",0
 "that, in the LEADER study, Victoza® signi  -",0
 ficantly reduced the risk of the composite,0
 primary endpoint of cardiovascular (CV),0
@@ -16,7 +16,7 @@ also signi  ficantly reduced by <NUM>% versus,0
 "placebo, when added to standard of care",0
 in <NUM> adults with type <NUM> diabetes at,0
 high CV risk.,0
-In April <NUM> Novo Nordisk announced,0
+"In <DATE> <DATE>, <DATE> Nordisk announced",0
 "results from the SUSTAIN <NUM> trial, where",0
 "semaglutide, a GLP-<NUM> analogue admin -",0
 "istered once weekly, when added to",0
@@ -26,12 +26,12 @@ reduced the risk of the composite primary,0
 myocardial infarction and non-fatal stroke,0
 by <NUM>% compared to placebo in a study,0
 with <NUM> adults with type <NUM> diabetes with,0
-elevated cardiovascular risk. In December,0
-<NUM> Novo Nordisk filed semaglutide for,0
+elevated cardiovascular risk. In <DATE>,0
+"<DATE>, <DATE> Nordisk filed semaglutide for",0
 "regulatory approval in the US and the EU,",0
 based on the results from the six SUSTAIN,0
 trials.,0
-In October <NUM> Novo Nordisk announced,0
+"In <DATE> <DATE>, <DATE> Nordisk announced",0
 that it had received a Complete Response,0
 Letter (CRL) from the US Food and Drug,0
 Administration (FDA) regarding the New,0
@@ -41,25 +41,25 @@ requested additional information related to,0
 the assay for the immunogenicity and the,0
 assay used to generate the clinical phar -,0
 maco  kinetics data before the review of the,0
-NDA could be completed. Novo Nordisk,0
+NDA could be completed. <DATE> Nordisk,0
 expects to resubmit the fast-acting insulin,0
 aspart NDA as a class II re-submission within,0
-the next three months. In January <NUM>,0
-Novo Nordisk announced that the European,0
+"the next three months. In <DATE> <DATE>,",0
+<DATE> Nordisk announced that the European,0
 Commission had granted marketing,0
 authorisation for Fiasp® for the treatment of,0
-diabetes in adults and that Novo Nordisk,0
+diabetes in adults and that <DATE> Nordisk,0
 had also received marketing authorisation,0
 for Fiasp® from Health Canada.,0
-In November <NUM> Novo Nordisk an -,0
+"In <DATE> <DATE>, <DATE> Nordisk an -",0
 nounced that the FDA had approved the,0
 New Drug Application (NDA) for Xultophy®,0
-"<NUM>/<NUM>, a once-daily, single-injection fixed",0
+"<DATE>, a once-daily, single-injection fixed",0
 combination of long-acting insulin degludec,0
 (Tresiba®) and the GLP-<NUM> analogue lira -,0
-glutide (Victoza®). Xultophy® <NUM>/<NUM> is,0
+glutide (Victoza®). Xultophy® <DATE> is,0
 <NUM>,0
-NOVO NORDISK ANNUAL REPORT <NUM> ACCOMPLISHMENTS AND RESULTS <NUM>,0
+NOVO NORDISK ANNUAL REPORT <DATE> ACCOMPLISHMENTS AND RESULTS <DATE>,0
 SOCIAL PERFORMANCE,0
 CONTINUEDSocial performance has three dimensions:,0
 improving access to medical treatment and,0
@@ -77,82 +77,82 @@ low- and middle-income countries with,0
 "weak healthcare systems, implying that",0
 millions of people have inadequate access,0
 to diabetes care.,0
-Novo Nordisk’s strategy for global access to,0
+<DATE> Nordisk’s strategy for global access to,0
 diabetes care addresses this unmet need.,0
 The company’s long-term target is to reach,0
 <NUM> million people with its diabetes care,0
-products by <NUM> – double the <NUM> base  -,0
+products by <DATE> – double the <DATE> base  -,0
 line number.,0
-Novo Nordisk provided medical treatments,0
+<DATE> Nordisk provided medical treatments,0
 to an estimated <NUM> million people with,0
-diabetes worldwide in <NUM> compared with,0
-<NUM> million in <NUM> This <NUM>% increase was,0
+"diabetes worldwide in <DATE>, compared with",0
+<NUM> million in <DATE>. This <NUM>% increase was,0
 driven by sales of human insulin (<NUM> million,0
 people) and modern and new-generation,0
 insulin (<NUM> million people).,0
 Current projections show that it will not be,0
 possible to reach this target. This is due to a,0
 more challenging market environment than,0
-anticipated in <NUM> when the long-term,0
-target was set. Novo Nordisk remains,0
+anticipated in <DATE> when the long-term,0
+target was set. <DATE> Nordisk remains,0
 committed to continuing its efforts to reach,0
 more patients and improve diabetes care. In,0
-<NUM> the company announced a new Novo,0
+"<DATE>, the company announced a new <DATE>",0
 Nordisk Access to Insulin Commitment with,0
 a broader scope to replace the longstanding,0
 differential pricing policy. It provides low-,0
 income countries and humanitarian relief,0
 organisations with an effective guarantee,0
-that Novo Nordisk will ensure availability of,0
+that <DATE> Nordisk will ensure availability of,0
 low-priced human insulin at a lower ceiling,0
 price than the previous pricing policy. In,0
-<NUM> the price will be <NUM> US dollars per vial.,0
-Novo Nordisk sold human insulin according,0
+"<DATE>, the price will be <NUM> US dollars per vial.",0
+<DATE> Nordisk sold human insulin according,0
 to the company’s differential pricing policy,0
 in <NUM> of the <NUM> Least Developed Countries,0
-in <NUM> compared with <NUM> countries in,0
-<NUM> The pricing policy is offered through,0
+"in <DATE>, compared with <NUM> countries in",0
+<DATE>. The pricing policy is offered through,0
 government tenders or private market,0
 distributors to all Least Developed Countries,0
-(LDCs) as defined by the UN. In <NUM> the,0
+"(LDCs) as defined by the UN. In <DATE>, the",0
 ceiling price for insulin treatment per patient,0
 "per day was USD <NUM>, while the average",0
 realised price for insulin sold under the,0
 programme was USD <NUM>. The total,0
 number of people treated with insulin sold at or below the pricing policy price in the,0
-LDCs decreased from <NUM> in <NUM> to,0
-"<NUM> in <NUM> Beyond this scheme, Novo",0
+LDCs decreased from <NUM> in <DATE> to,0
+"<NUM> in <DATE>. Beyond this scheme, <DATE>",0
 Nordisk sells human insulin at similar prices,0
-in low-income countries. In <NUM> an,0
+"in low-income countries. In <DATE>, an",0
 estimated <NUM> million people were treated,0
 with insulin below the LDC ceiling price,0
 worldwide compared with <NUM> million,0
-people in <NUM>,0
-By the end of <NUM> solid progress had been,0
+people in <DATE>.,0
+"By the end of <DATE>, solid progress had been",0
 achieved by Changing Diabetes® pro-,0
 grammes in reaching more people with,0
 diabetes and building healthcare capacity.,0
 The Changing Diabetes® in Children,0
-"programme, launched in <NUM> operates in",0
+"programme, launched in <DATE>, operates in",0
 nine countries and reaches more than,0
 "<NUM> children, who receive insulin",0
 treatment free of charge. A total of <NUM>,0
 "clinics have been set up, and more than",0
 <NUM> healthcare professionals have been,0
-trained or retrained. In <NUM> the pro -,0
+"trained or retrained. In <DATE>, the pro -",0
 gramme will be expanded to include,0
 "another five low-income countries, with a",0
 new ambition of reaching <NUM> children.,0
 The Changing Diabetes® in Pregnancy,0
-"programme, also launched in <NUM> has",0
+"programme, also launched in <DATE>, has",0
 screened more than <NUM> women for,0
 "gestational diabetes, and more than <NUM>",0
 women have been diagnosed and subse -,0
 quently treated. The Base of the Pyramid,0
 "programme has been expanded in Kenya,",0
-"Nigeria and Ghana, and in <NUM> the",0
+"Nigeria and Ghana, and in <DATE> the",0
 programme will be rolled out in Senegal.,0
-In <NUM> Novo Nordisk launched Cities,0
+"In <DATE>, <DATE> Nordisk launched Cities",0
 Changing Diabetes as a response to the,0
 "dramatic rise of type <NUM> diabetes in cities,",0
 also called ‘urban diabetes’. It is a partner -,0
@@ -170,34 +170,34 @@ cities around the world. The partner cities,0
 "and Rome, representing more than <NUM>",0
 million citizens.,0
 Donations through the World Diabetes,0
-Foundation (WDF) in <NUM> amounted to,0
+Foundation (WDF) in <DATE> amounted to,0
 <NUM> million Danish kroner. The WDF is an,0
 independent non-profit organisation,0
-established by Novo Nordisk in <NUM> to,0
+established by <DATE> Nordisk in <DATE> to,0
 help expand access to diabetes care. The,0
 foundation invests in sustainable initiatives,0
 "to build healthcare capacity, with the aim of",0
 improving prevention and treatment of,0
 diabetes in developing countries. Since,0
-<NUM> WDF has provided <NUM> million US,0
+"<DATE>, WDF has provided <NUM> million US",0
 dollars in funding to <NUM> projects in <NUM> countries. These included projects with a,0
 focus on prevention and others aimed at,0
 reaching people in the most remote rural,0
 areas. Read more on,0
 worlddiabetesfoundation.org .,0
-Novo Nordisk also provides financial,0
+<DATE> Nordisk also provides financial,0
 support to improve global access to,0
-haemophilia care. In <NUM> the company,0
+"haemophilia care. In <DATE>, the company",0
 donated <NUM> million Danish kroner to the,0
-"Novo Nordisk Haemophilia Foundation,",0
-established in <NUM> The foundation,0
+"<DATE> Nordisk Haemophilia Foundation,",0
+established in <DATE>. The foundation,0
 supports projects and fellowships in,0
 developing and emerging economies.,0
 "Initiatives focus on capacity building,",0
 "awareness, diagnosis and patient registries.",0
 Read more on nnhf.org .,0
 EMPLOYEES,0
-In November <NUM> Novo Nordisk reduced,0
+"In <DATE> <DATE>, <DATE> Nordisk reduced",0
 its global workforce by <NUM>% across its,0
 organisation. The decision was one of,0
 several actions to reduce operating costs in,0
@@ -206,26 +206,26 @@ response to a challenging competitive,0
 "workforce reductions affected R&D units,",0
 headquarter staff functions and positions in,0
 the global commercial organisation mainly,0
-in the USA. At the end of <NUM> the total,0
+"in the USA. At the end of <DATE>, the total",0
 "number of employees was <NUM>, corres  -",0
 "ponding to <NUM> full-time positions, which",0
-is a <NUM>% increase compared with <NUM> The,0
+is a <NUM>% increase compared with <DATE>. The,0
 growth is primarily driven by expansion,0
 within the International Operations sales,0
 region and in Product Supply. Employee,0
-turnover increased from <NUM>% in <NUM> to,0
-<NUM>% in <NUM>,0
+turnover increased from <NUM>% in <DATE> to,0
+<NUM>% in <DATE>.,0
 Measured on a scale from <NUM> to <NUM> with <NUM>,0
 "being the best score, the consolidated score",0
 "in the annual employee survey, eVoice, was",0
-<NUM> in <NUM> compared with <NUM> in <NUM>,0
+"<NUM> in <DATE>, compared with <NUM> in <DATE>.",0
 The survey was conducted in the second,0
-quarter of <NUM> and measures the extent to,0
+quarter of <DATE> and measures the extent to,0
 which the organisation is working in accord -,0
-ance with the Novo Nordisk Way. The <NUM>,0
+ance with the <DATE> Nordisk Way. The <DATE>,0
 result reflects a strong culture and commit -,0
 ment to the company’s values.,0
-By the end of <NUM> gender diversity among,0
+"By the end of <DATE>, gender diversity among",0
 managers was <NUM>% men and <NUM>% women.,0
 "Of the newly promoted managers, <NUM>%",0
 "were women. All management teams, from",0
@@ -233,14 +233,14 @@ managers was <NUM>% men and <NUM>% women.,0
 "diversity, with the aim of ensuring a robust",0
 pipeline of talent for management positions.,0
 The average frequency rate of occupational,0
-accidents with absence in <NUM> was <NUM> per,0
+accidents with absence in <DATE> was <NUM> per,0
 "million working hours, unchanged from",0
-<NUM> One Novo Nordisk employee in,0
+<DATE>. One <DATE> Nordisk employee in,0
 Pakistan died in a work-related accident.,0
-Novo Nordisk is working with a zero-injury,0
+<DATE> Nordisk is working with a zero-injury,0
 mindset and has a long-term commitment,0
 <NUM>,0
-NOVO NORDISK ANNUAL REPORT <NUM> ACCOMPLISHMENTS AND RESULTS <NUM>,0
+NOVO NORDISK ANNUAL REPORT <DATE> ACCOMPLISHMENTS AND RESULTS <DATE>,0
 to continuously improve safety perform  ance.,0
 The link between company values and safety,0
 behaviour is emphasised to ensure that,0
@@ -251,55 +251,55 @@ a high priority. Annual business ethics,0
 "training is required for all employees, includ  -",0
 ing new hires. Business ethics training is,0
 therefore a key element of the onboarding,0
-programmes. In <NUM> <NUM>% of all relevant,0
+"programmes. In <DATE>, <NUM>% of all relevant",0
 employees completed and documented,0
 "their training and passed the related tests,",0
-compared with <NUM>% in <NUM> This high level,0
+compared with <NUM>% in <DATE>. This high level,0
 is attributed to the constant focus on and,0
 communication by senior management of,0
 the importance of business ethics com -,0
 pliance.,0
 A total of <NUM> business ethics reviews were,0
-"completed in <NUM> with <NUM> findings,",0
-compared with <NUM> reviews in <NUM> with,0
+"completed in <DATE> with <NUM> findings,",0
+compared with <NUM> reviews in <DATE> with,0
 <NUM> findings. It is Group Internal Audit’s,0
 assessment that the level of compliance is,0
 sound. Closure of findings progressed as,0
 "planned, and there were no overdue",0
-findings as of <NUM> December <NUM>,0
+findings as of <NUM> <DATE> <DATE>.,0
 The global facilitator team conducted <NUM>,0
-audits of units’ adherence to the Novo,0
+audits of units’ adherence to the <DATE>,0
 Nordisk Way. These facilitations covered,0
 "approximately <NUM> employees, <NUM>% of",0
 "whom were interviewed, while feedback",0
 was collected from almost <NUM> stake -,0
-holders. The facilitations in <NUM> as in,0
-<NUM> showed a high level of compliance,0
-with the Novo Nordisk Way. Corrective,0
+"holders. The facilitations in <DATE>, as in",0
+"<DATE>, showed a high level of compliance",0
+with the <DATE> Nordisk Way. Corrective,0
 actions and corresponding deadlines were,0
 agreed with local management for all,0
 actions. See the article on p <NUM> and,0
 novonordisk.com/about-novo-nordisk/,0
 novo-nordisk-way.html  for further,0
 "information. A total of <NUM> supplier audits,",0
-compared with <NUM> audits in <NUM> were,0
-conducted in <NUM> to assess suppliers’ level of compliance with the company’s,0
+"compared with <NUM> audits in <DATE>, were",0
+conducted in <DATE> to assess suppliers’ level of compliance with the company’s,0
 standards for suppliers. These relate to,0
-quality as well as to Novo Nordisk’s,0
+quality as well as to <DATE> Nordisk’s,0
 responsible sourcing policy covering the,0
 "environment, labour, human rights and",0
 business ethics.,0
-These audits are undertaken by Novo,0
+These audits are undertaken by <DATE>,0
 Nordisk’s Corporate Quality organisation.,0
-Of the audits carried out in <NUM> <NUM>,0
+"Of the audits carried out in <DATE>, <NUM>",0
 "concerned responsible sourcing criteria, on",0
-"par with <NUM> Only high-risk suppliers,",0
+"par with <DATE>. Only high-risk suppliers,",0
 "identified through a robust risk assessment,",0
 are selected for responsible sourcing audits.,0
-There were no critical findings in <NUM>,0
-Novo Nordisk had six product recalls from,0
-the market in <NUM> of which one was,0
-"critical, compared with two in <NUM> Two of",0
+There were no critical findings in <DATE>.,0
+<DATE> Nordisk had six product recalls from,0
+"the market in <DATE>, of which one was",0
+"critical, compared with two in <DATE>. Two of",0
 the recalls were due to inappropriate,0
 product storage in the external distribution,0
 chain while four were due to products that,0
@@ -309,20 +309,20 @@ health authorities were informed in all,0
 "macies, doctors and patients received",0
 appropriate information. Read more on,0
 pp <NUM>  and <NUM>,0
-In <NUM> as in <NUM> there were no failed,0
+"In <DATE>, as in <DATE>, there were no failed",0
 inspections by regulatory authorities among,0
 those resolved at year-end. A total of <NUM>,0
-inspections were conducted in <NUM> at,0
-"Novo Nordisk’s sites, at clinics conducting",0
-investigations for Novo Nordisk or for,0
-"voluntary ISO <NUM> certification, compared",0
-"with <NUM> inspections in <NUM> At year-end,",0
+inspections were conducted in <DATE> at,0
+"<DATE> Nordisk’s sites, at clinics conducting",0
+investigations for <DATE> Nordisk or for,0
+"voluntary ISO <DATE> certification, compared",0
+"with <NUM> inspections in <DATE>. At year-end,",0
 <NUM> inspections had been passed and <NUM>,0
 were unresolved.,0
-Novo Nordisk acts on its responsibility to,0
+<DATE> Nordisk acts on its responsibility to,0
 respect human rights as set out in the UN,0
 Guiding Principles on Business and Human,0
-"Rights, and observes due diligence. Novo",0
+"Rights, and observes due diligence. <DATE>",0
 Nordisk recognises that the company has a,0
 number of potential impacts with regard to,0
 human rights in its operations and business relationships. Actions are taken focusing on,0
@@ -330,7 +330,7 @@ salient issues beyond those already,0
 addressed by existing programmes such,0
 as global labour standards and employee,0
 "health and safety, bioethics, responsible",0
-sourcing and business ethics. In <NUM> the,0
+"sourcing and business ethics. In <DATE>, the",0
 focus was on human biosamples for,0
 "research use, patient safety and security.",0
 The company has also strengthened con  -,0
@@ -341,9 +341,9 @@ the UN Guiding Principles Reporting,0
 cation on Progress at novonordisk.com/,0
 annualreport .,0
 The consolidated reputation score was <NUM>,0
-in <NUM> compared with <NUM> in <NUM> Data,0
-was collected from January through October,0
-"<NUM> Although still a strong score, the",0
+"in <DATE>, compared with <NUM> in <DATE>. Data",0
+was collected from <DATE> through <DATE>,0
+"<DATE>. Although still a strong score, the",0
 decline reflects a general trend across the,0
 healthcare sector. Reputation among key,0
 "stakeholders – people with diabetes, general",0
@@ -354,7 +354,7 @@ which the company lives up to their expect  -,0
 support and engage with the company.,0
 LONG-TERM SOCIAL,0
 TARGETS,0
-Novo Nordisk has set three long-term social,0
+<DATE> Nordisk has set three long-term social,0
 targets to support long-term financial,0
 "performance, balancing responsibility with",0
 "profitability, with the aim of creating",0
@@ -362,42 +362,42 @@ sustainable value for shareholders and other,0
 stakeholders. The social targets reflect,0
 strategic priorities to be a sustainable,0
 "business: helping people live better lives,",0
-working the Novo Nordisk Way and safe  -,0
+working the <DATE> Nordisk Way and safe  -,0
 guarding the reputation of the company.,0
 For further information about social,0
 "performance, see the social statement on",0
 pp <NUM>–<NUM>  and the Communication on,0
 Progress at novonordisk.com/annualreport .,0
-<NUM> <NUM> <NUM> <NUM> <NUM>PATIENTS REACHED WITH,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><DATE><NUM>PATIENTS REACHED WITH,0
 DIABETES CARE PRODUCTS,0
 Estimate,0
 • Realised,0
-Target (<NUM>),0
+Target (<DATE>),0
 Million,0
-<NUM> <NUM> <NUM> <NUM> <NUM>WORKING THE NOVO NORDISK WAY,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><NUM>WORKING THE NOVO NORDISK WAY,0
 Average score in annual employee survey,0
 • Realised,0
 Target,0
 Scale,0
-<NUM> <NUM>*<NUM> <NUM> <NUM>COMPANY REPUTATION,0
+<DATE> <DATE>*<DATE> <DATE> <DATE><DATE><DATE><DATE>COMPANY REPUTATION,0
 Mean score among key stakeholders,0
 • Realised,0
 Target,0
 Scale,0
-*  In <NUM> data for people with diabetes and employees,0
+"*  In <DATE>, data for people with diabetes and employees",0
 are not included due to lack of availability.,0
 <NUM>,0
-NOVO NORDISK ANNUAL REPORT <NUM> ACCOMPLISHMENTS AND RESULTS <NUM>,0
+NOVO NORDISK ANNUAL REPORT <DATE> ACCOMPLISHMENTS AND RESULTS <DATE>,0
 ENVIRONMENTAL PERFORMANCE,0
-Novo Nordisk measures environmental,0
+<DATE> Nordisk measures environmental,0
 performance across four dimensions: use of,0
 "resources, emissions, organic residues and",0
-waste. All of Novo Nordisk’s production,0
+waste. All of <DATE> Nordisk’s production,0
 facilities are certified according to ISO,0
-<NUM> The production of active pharma -,0
+<DATE><NUM> The production of active pharma -,0
 "ceutical ingredients in Kalundborg,",0
 "Denmark, is also certified according to",0
-ISO <NUM>,0
+ISO <DATE><NUM>,0
 "In line with expectations, use of resources",0
 "and waste increased, while organic residues",0
 and CO <NUM> emissions from energy use at,0
@@ -411,20 +411,20 @@ water use by <NUM>% due to increases in,0
 expansions to meet market demands. Two,0
 facilities are located in regions subject to,0
 "high water stress, consuming <NUM>% of the",0
-total water consumption used at Novo,0
+total water consumption used at <DATE>,0
 Nordisk sites. There were no water short  -,0
 "age incidents and, overall, water consump -",0
-tion at these facilities decreased in <NUM>,0
+tion at these facilities decreased in <DATE>.,0
 "EMISSIONS, ORGANIC",0
 RESIDUES AND WASTE,0
-Novo Nordisk’s climate action programme,0
+<DATE> Nordisk’s climate action programme,0
 aims to reduce CO<NUM> emissions throughout,0
 the value chain. The current focus includes,0
 "energy used in production, distribution of",0
 "products, company cars and business",0
-flights. As of <NUM> indirect emissions from,0
+"flights. As of <DATE>, indirect emissions from",0
 the supply chain are included in the climate,0
-action programme. Novo Nordisk engages with strategic suppliers with the aim of,0
+action programme. <DATE> Nordisk engages with strategic suppliers with the aim of,0
 increasing energy efficiency and shifting to,0
 renewable energy.,0
 "While energy consumption increased, the",0
@@ -433,7 +433,7 @@ tion decreased from <NUM> tons to <NUM>,0
 tons. This is a result of ongoing conversion,0
 to less CO<NUM> intensive energy sources as part,0
 of the effort to grow the share of renewable,0
-energy. At the end of <NUM> <NUM>% of all,0
+"energy. At the end of <DATE>, <NUM>% of all",0
 power for production came from renewable,0
 sources. All but one production site in,0
 "Denmark use gas from biogas plants, and",0
@@ -452,10 +452,10 @@ energy in these residues is first recovered in,0
 "biogas plants, and the digested slurry is",0
 then used as fertiliser on local farmland.,0
 Waste increased by <NUM>% compared with,0
-<NUM> mainly due to increased pilot,0
+"<DATE>, mainly due to increased pilot",0
 production where regeneration of ethanol,0
 is not possible. Reducing ethanol waste is a,0
-"high priority for Novo Nordisk, and efficient",0
+"high priority for <DATE> Nordisk, and efficient",0
 regeneration plants enable repeated reuse,0
 of the ethanol.LONG-TERM,0
 ENVIRONMENTAL TARGETS,0
@@ -464,12 +464,12 @@ consumption of water and energy from,0
 sales growth. The current target is set as a,0
 maximum of half of the percentage,0
 "increase in sales in local currencies,",0
-measured as a three-year average. In <NUM>,0
+"measured as a three-year average. In <DATE>,",0
 sales increased by <NUM>% in local currencies,0
 while energy consumption increased by <NUM>%,0
 and water consumption increased by <NUM>%.,0
 The lower sales growth reflects the chal  -,0
-lenging business environment in <NUM>,0
+"lenging business environment in <DATE>,",0
 while the increased consumption of energy,0
 and water is the result of new capacity,0
 building to meet market demands. Under,0
@@ -477,16 +477,16 @@ building to meet market demands. Under,0
 meet the current targets for the foresee -,0
 able future. New targets are being,0
 developed to replace them.,0
-In <NUM> Novo Nordisk set a target for all,0
+"In <DATE>, <DATE> Nordisk set a target for all",0
 production sites to use electricity from,0
-renewable sources by <NUM> The company,0
+renewable sources by <DATE>. The company,0
 "has signed up to the RE<NUM> initiative, a",0
 "coalition of companies, committed to",0
 <NUM>% renewable electricity led by The,0
 "Climate Group in partnership with CDP, a",0
 not-for-profit that runs the global disclosure,0
 system for environmental impacts.,0
-Novo Nordisk plans to set targets for other,0
+<DATE> Nordisk plans to set targets for other,0
 focus areas under the climate ambition,0
 programme. The ambition is to align the,0
 targets with the goals of the Paris Agree -,0
@@ -497,13 +497,13 @@ For additional information about environ -,0
 statement on pp <NUM>–<NUM>  and the Commu -,0
 ni cation on Progress at novonordisk.com/,0
 annualreport .,0
-<NUM>,0
-<NUM> <NUM> <NUM> <NUM> <NUM>ENERGY CONSUMPTION,0
+<DATE><NUM>,0
+<DATE> <DATE> <DATE> <DATE> <DATE>ENERGY CONSUMPTION,0
 • Realised,0
 Target (not to exceed),0
 "<NUM>,<NUM> GJ",0
-<NUM> <NUM> <NUM> <NUM> <NUM>,0
-<NUM> <NUM> <NUM> <NUM> <NUM>WATER CONSUMPTION,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><NUM>,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><DATE><DATE>WATER CONSUMPTION,0
 • Realised,0
 Target (not to exceed),0
 "<NUM>,<NUM> m<NUM>%",0
@@ -512,27 +512,27 @@ FOR PRODUCTION,0
 • Realised,0
 Target,0
 <NUM>,0
-NOVO NORDISK ANNUAL REPORT <NUM> ACCOMPLISHMENTS AND RESULTS <NUM>,0
-NOVO NORDISK ANNUAL REPORT <NUM> ACCOMPLISHMENTS AND RESULTS <NUM>,0
+NOVO NORDISK ANNUAL REPORT <DATE> ACCOMPLISHMENTS AND RESULTS <DATE>,0
+NOVO NORDISK ANNUAL REPORT <DATE><NUM> ACCOMPLISHMENTS AND RESULTS <DATE>,0
 PERFORMANCE HIGHLIGHTS,0
-<NUM> <NUM> <NUM> <NUM> <NUM>BIOPHARMACEUTICALS SALES,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><DATE><NUM>BIOPHARMACEUTICALS SALES,0
 J Other biopharmaceuticals,0
 J Human growth hormone,0
 J Haemophilia,0
 DKK billion,0
-<NUM> <NUM> <NUM> <NUM> <NUM>SALES BY GEOGRAPHIC REGION,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><DATE><DATE><NUM>SALES BY GEOGRAPHIC REGION,0
 J Paciﬁc,0
 J Region China,0
 J International Operations,0
 J Europe,0
 J USA,0
 DKK billion,0
-<NUM> <NUM> <NUM> <NUM> <NUM>DKK billionDIABETES AND OBESITY CARE SALES,0
+<DATE> <DATE> <DATE> <DATE> <DATE><DATE><DATE><DATE>DKK billionDIABETES AND OBESITY CARE SALES,0
 J Other diabetes and obesity care,0
 J Victoza®,0
 J New-generation insulin,0
 J Modern insulin,0
-J Human insulins <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>–<NUM>,0
+J Human insulins <DATE> <DATE> <DATE> <DATE> <DATE> <DATE>–<DATE>,0
 FINANCIAL PERFORMANCE       Change,0
 Net sales <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
 Sales growth in local currencies<NUM> <NUM>% <NUM>% <NUM>% <NUM>% <NUM>%,1
@@ -571,14 +571,14 @@ Organic residues (tons) <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%),1
 Waste (tons)  <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
 Energy consumption (vs prior year) <NUM>% <NUM>% (<NUM>%) <NUM>% <NUM>% Not to exceed <NUM>%<NUM>,1
 Water consumption (vs prior year) <NUM>% <NUM>% <NUM>% <NUM>% <NUM>% Not to exceed <NUM>%<NUM>,1
-Share of renewable power for production <NUM>% <NUM>% <NUM>% <NUM>% <NUM>% <NUM>% by <NUM>,1
+Share of renewable power for production <NUM>% <NUM>% <NUM>% <NUM>% <NUM>% <NUM>% by <DATE>,1
 Basic earnings per share/ADR in DKK<NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
 Diluted earnings per share/ADR in DKK<NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
-"Total number of shares (million), <NUM> December  <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%)",1
-"Treasury shares (million), <NUM> December <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%)",1
+"Total number of shares (million), <NUM> <DATE>  <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%)",1
+"Treasury shares (million), <NUM> <DATE> <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%)",1
 Share capital (DKK million) <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%),1
 Dividend per share in DKK<NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
-Total dividend (DKK million) <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>%,1
+Total dividend (DKK million) <NUM> <NUM> <NUM> <NUM> <NUM><DATE> <NUM>%,1
 Share repurchases (DKK million) <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%),1
 Closing share price (DKK)<NUM> <NUM> <NUM> <NUM> <NUM> <NUM> (<NUM>%),1
 "Net sales  <NUM>, <NUM> <NUM> <NUM> <NUM>",1
@@ -616,7 +616,7 @@ Inventories <NUM>  <NUM> <NUM>,1
 "Trade receivables <NUM>, <NUM>  <NUM> <NUM>",1
 Tax receivables   <NUM> <NUM>,1
 Other receivables and prepayments <NUM>  <NUM> <NUM>,1
-"Marketable securities  <NUM>, <NUM>, <NUM>  <NUM> <NUM>",1
+"<DATE> securities  <NUM>, <NUM>, <NUM>  <NUM> <NUM>",1
 "Derivative ﬁ  nancial instruments <NUM>, <NUM>, <NUM>  <NUM> <NUM>",1
 "Cash at bank <NUM>, <NUM>, <NUM>  <NUM> <NUM>",1
 Total current assets   <NUM> <NUM>,1
@@ -709,8 +709,8 @@ Haemophilia <NUM>% (<NUM>%),1
 Norditropin® (human growth hormone) <NUM>% <NUM>%,1
 Other biopharmaceuticals (<NUM>%) (<NUM>%),1
 Biopharmaceuticals <NUM>% <NUM>%,1
-® / NovoLog® <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
-NovoMix® / NovoLog® Mix <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
+® / <DATE>Log® <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
+<DATE>Mix® / <DATE>Log® Mix <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
 Levemir® <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
 Total modern insulin <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
 Human insulin <NUM> <NUM> <NUM> <NUM> <NUM> <NUM>,1
@@ -763,14 +763,14 @@ Depreciation reversed related to partial divestment of NNIT A/S (<NUM>) (<NUM>) 
 Effect of exchange rate adjustment (<NUM>) (<NUM>) <NUM> – (<NUM>),1
 Depreciation and impairment losses at the end of the year <NUM> <NUM> <NUM> – <NUM>,1
 Carrying amount at the end of the year <NUM> <NUM> <NUM> <NUM> <NUM>,1
-DKK million <NUM> <NUM>,1
+DKK million <DATE> <DATE>,1
 Cost of goods sold <NUM> <NUM>,1
 Sales and distribution costs <NUM> <NUM>,1
 Research and development costs <NUM> <NUM>,1
 Administrative costs <NUM> <NUM>,1
 "Other operating income, net <NUM> <NUM>",1
 Total depreciation and impairment losses <NUM> <NUM>,1
-DKK million <NUM> <NUM>,1
+DKK million <DATE> <DATE>,1
 Raw materials <NUM> <NUM>,1
 Work in progress <NUM> <NUM>,1
 Finished goods <NUM> <NUM>,1
@@ -779,43 +779,43 @@ Inventory write-downs at year-end <NUM> <NUM>,1
 Total inventories (net) <NUM> <NUM>,1
 UNITED STATES,0
 SECURITIES AND EXCHANGE COMMISSION,0
-"Washington, D.C. <NUM>",0
+"Washington, D.C. <DATE><NUM>",0
 FORM <NUM>-K,0
-(Mark One),0
-☒ ANNUAL  REPORT PURSUANT T O SECTION <NUM> OR <NUM>(d) OF THE SECURITIES EXCHANGE ACT OF <NUM>,0
-For the fiscal year ended September <NUM> <NUM>,0
+(<DATE> One),0
+☒ ANNUAL  REPORT PURSUANT T O SECTION <NUM> OR <NUM>(d) OF THE SECURITIES EXCHANGE ACT OF <DATE>,0
+For the fiscal year ended <DATE> <NUM> <DATE>,0
 or,0
-☐ TRANSITION REPORT PURSUANT T O SECTION <NUM> OR <NUM>(d) OF THE SECURITIES EXCHANGE ACT OF <NUM>,0
+☐ TRANSITION REPORT PURSUANT T O SECTION <NUM> OR <NUM>(d) OF THE SECURITIES EXCHANGE ACT OF <DATE>,0
 For the transition period from              to             .,0
-Commission File Number: <NUM>-<NUM>,0
+Commission File Number: <NUM>-<DATE><NUM>,0
 Apple Inc.,0
 (Exact name of Registrant as specified in its charter),0
-California <NUM>-<NUM> <NUM>,0
+California <NUM>-<DATE><NUM> <NUM>,0
 (State or other jurisdiction,0
 of incorporation or organization)(I.R.S. Employer Identification No.),0
 One Apple Park W ay,0
-"Cupertino, California <NUM>",0
+"Cupertino, California <DATE><NUM>",0
 (Address of principal executive offices) (Zip Code),0
-(<NUM>) <NUM>-<NUM>,0
+(<NUM>) <NUM>-<DATE>,0
 "(Registrant’s telephone number, including area code)",0
 Securities registered pursuant to Section <NUM>(b) of the Act:,0
 Title of each class Trading symbol(s) Name of each exchange on which registered,0
-"Common Stock, $<NUM> par value per share AAPL The Nasdaq Stock Market LLC",0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
-<NUM>% Notes due <NUM> — The Nasdaq Stock Market LLC,0
+"Common Stock, $<NUM><DATE><NUM> par value per share AAPL The Nasdaq Stock <DATE> LLC",0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
+<NUM>% Notes due <DATE> — The Nasdaq Stock <DATE> LLC,0
 Securities registered pursuant to Section <NUM>(g) of the Act: None,0
 "Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule <NUM> of the Securities Act.",0
 Yes  ☒     No  ☐,0
 Indicate by check mark if the Registrant is not required to file reports pursuant to Section <NUM> or Section <NUM>(d) of the Act.,0
 Yes  ☐     No  ☒,0
-Indicate by check mark whether the Registrant (<NUM>) has filed all reports required to be filed by Section <NUM> or <NUM>(d) of the Securities Exchange Act of <NUM> during the preceding <NUM>,0
+Indicate by check mark whether the Registrant (<NUM>) has filed all reports required to be filed by Section <NUM> or <NUM>(d) of the Securities Exchange Act of <DATE> during the preceding <NUM>,0
 "months (or for such shorter period that the Registrant was required to file such reports), and (<NUM>) has been subject to such filing requirements for the past <NUM> days.",0
 Yes  ☒     No  ☐,0
 Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule <NUM> of Regulation S-T (§<NUM> of,0
@@ -829,25 +829,25 @@ Emerging growth company ☐,0
 "If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial",0
 accounting standards provided pursuant to Section <NUM>(a) of the Exchange Act. ☐,0
 Indicate by check mark whether the Registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting,0
-under Section <NUM>(b) of the Sarbanes-Oxley Act (<NUM> U.S.C. <NUM>(b)) by the registered public accounting firm that prepared or issued its audit report. ☒,0
+under Section <NUM>(b) of the Sarbanes-Oxley Act (<NUM> U.S.C. <DATE>(b)) by the registered public accounting firm that prepared or issued its audit report. ☒,0
 "If securities are registered pursuant to Section <NUM>(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of",0
 an error to previously issued financial statements. ☐,0
 Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s,0
 executive officers during the relevant recovery period pursuant to §<NUM>D-<NUM>(b). ☐,0
 Indicate by check mark whether the Registrant is a shell company (as defined in Rule <NUM>b-<NUM> of the Act).,0
 Yes  ☐     No  ☒,0
-"The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March <NUM> <NUM> the last business day of the Registrant’s most recently",0
+"The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of <DATE> <NUM> <DATE>, the last business day of the Registrant’s most recently",0
 "completed second fiscal quarter, was approximately $<NUM>,<NUM>,<NUM> Solely for purposes of this disclosure, shares of common stock held by executive officers and directors of",0
 the Registrant as of such date have been excluded because such persons may be deemed to be affiliates. This determination of executive officers and directors as affiliates is not,0
 necessarily a conclusive determination for any other purposes.,0
-"<NUM>,<NUM> shares of common stock were issued and outstanding as of October <NUM> <NUM>",0
+"<NUM>,<NUM> shares of common stock were issued and outstanding as of <DATE> <NUM> <DATE>.",0
 DOCUMENTS INCORPORA TED BY  REFERENCE,0
-Portions of the Registrant’s definitive proxy statement relating to its <NUM> annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form,0
+Portions of the Registrant’s definitive proxy statement relating to its <DATE> annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form,0
 <NUM>-K where indicated. The Registrant’s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission within <NUM> days after the end of the fiscal year to,0
 which this report relates.,0
 Apple Inc.,0
 Form <NUM>-K,0
-For the Fiscal Year Ended September <NUM> <NUM>,0
+For the Fiscal Year Ended <DATE> <NUM> <DATE>,0
 TABLE OF CONTENTS,0
 Page,0
 Part I,0
@@ -859,10 +859,10 @@ Item <NUM> Properties <NUM>,0
 Item <NUM> Legal Proceedings <NUM>,0
 Item <NUM> Mine Safety Disclosures <NUM>,0
 Part II,0
-"Item <NUM> Market for Registrant’ s Common Equity , Related Stockholder Matters and Issuer Purchases of Equity Securities <NUM>",0
+"Item <NUM> <DATE> for Registrant’ s Common Equity , Related Stockholder Matters and Issuer Purchases of Equity Securities <NUM>",0
 Item <NUM> [Reserved] <NUM>,0
 Item <NUM> Management’ s Discussion and Analysis of Financial Condition and Results of Operations <NUM>,0
-Item <NUM>A. Quantitative and Qualitative Disclosures About Market Risk <NUM>,0
+Item <NUM>A. Quantitative and Qualitative Disclosures About <DATE> Risk <NUM>,0
 Item <NUM> Financial Statements and Supplementary Data <NUM>,0
 Item <NUM> Changes in and Disagreements with Accountants on Accounting and Financial Disclosure <NUM>,0
 Item <NUM>A. Controls and Procedures <NUM>,0
@@ -877,7 +877,7 @@ Item <NUM> Principal Accountant Fees and Services <NUM>,0
 Part IV,0
 Item <NUM> Exhibit and Financial Statement Schedules <NUM>,0
 Item <NUM> Form <NUM>-K Summary <NUM>,0
-"This Annual Report on Form <NUM>-K (“Form <NUM>-K”)  contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of <NUM>",0
+"This Annual Report on Form <NUM>-K (“Form <NUM>-K”)  contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of <DATE>,",0
 "that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item <NUM> of this Form <NUM>-K under the heading “Business” and Part",0
 "II, Item <NUM> of this Form <NUM>-K under the heading  “Management’ s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking",0
 statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical,0
@@ -888,13 +888,13 @@ future performance and the Company’ s actual results may differ significantly 
 "cause such differences include, but are not limited to, those discussed in Part I, Item <NUM>A of this Form <NUM>-K under the heading “Risk Factors.” The Company",0
 "assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law .",0
 "Unless otherwise stated , all information present ed herein is based on the Company’ s fiscal calendar , and references to particular years, quarters, months or",0
-"periods refer to the Company’ s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the",0
+"periods refer to the Company’ s fiscal years ended in <DATE> and the associated quarters, months and periods of those fiscal years. Each of the terms the",0
 "“Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.",0
 PART I,0
 Item <NUM>    Business,0
 Company Background,0
 "The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related",0
-services. The Company’ s fiscal year is the <NUM>- or <NUM>-week period that ends on the last Saturday of September .,0
+services. The Company’ s fiscal year is the <NUM>- or <NUM>-week period that ends on the last Saturday of <DATE> .,0
 Products,0
 iPhone,0
 "iPhone  is the Comp any’s line of smartphones based on its iOS operating system. The iPhone line includes iPhone <NUM> Pro, iPhone <NUM> iPhone <NUM> iPhone <NUM>",0
@@ -919,7 +919,7 @@ Accessories includes Apple-branded and third-party accessories.®,0
 ® ® ® ®,0
 ®,0
 ® ® ® ®,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 Services,0
 Advertising,0
 The Company’ s advertising services include third-party licensing arrangements and the Company’ s own advertising platforms.,0
@@ -944,10 +944,10 @@ Segments,0
 "Company’ s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is",0
 managed separately to better align with the location of the Company’ s customers and distributio n partners and the unique market dynamics of each geographic,0
 region.,0
-Markets and Distribution,0
+<DATE> and Distribution,0
 "The Company’ s customers are primarily in the consumer , small and mid-sized business, education, enterprise and government markets. The Company sells its",0
 products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force. The,0
-"Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. During <NUM>",0
+"Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers, wholesalers, retailers and resellers. During <DATE>,",0
 "the Company’ s net sales through its direct and indirect distribution channels accounted for <NUM>% and <NUM>%, respectively , of total net sales.",0
 Competition,0
 "The markets for the Company’ s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward",0
@@ -960,7 +960,7 @@ Company’ s products and infringing on its intellectual property .®,0
 ® ®,0
 ®,0
 ® ®,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company’ s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and",0
 "technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system,",0
 "numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features",0
@@ -1004,7 +1004,7 @@ services. The Company believes the duration of its intellectual property rights 
 "parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company’ s products, processes and services. While the",0
 "Company has generally  been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be",0
 obtained in the future on reasonable terms or at all.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 Business Seasonality and Product Introductions,0
 The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday,0
 "demand. Additionally , new product and service introductions can significantly impact net sales , cost of sales and operating expenses. The timing of product",0
@@ -1013,7 +1013,7 @@ introductions can also impact the Company’ s net sales to its indirect distrib
 and distributors anticipate a product introduction.,0
 Human Capital,0
 "The Company believes it has a talented, motiva ted and dedicated team, and works to create an inclusive, safe and supportive environment for all of its team",0
-members. As of September <NUM> <NUM> the Company had approximately <NUM> full-time equivalent employees.,0
+"members. As of <DATE> <NUM> <DATE>, the Company had approximately <NUM> full-time equivalent employees.",0
 Workplace Practices and Policies,0
 The Company is an equal opportunity employer committed to inclusion and diversity and to providing a workplace free of harassment or discrimination.,0
 Compensation and Benefits,0
@@ -1036,14 +1036,14 @@ The Compa ny is committed to protecting its team members everywhere it operates.
 "members, visitors and customers through its global security team.",0
 Available Information,0
 "The Compan y’s Annual Reports on Form <NUM>-K, Quarterly Reports on Form <NUM>-Q, Current Reports on Form <NUM>-K, and amendments to reports filed pursuant to",0
-"Sections <NUM>(a) and <NUM>(d) of the Securities Exchange Act of <NUM> as amended (the “Exch ange Act”), are filed with the U.S. Securities and Exchange",0
+"Sections <NUM>(a) and <NUM>(d) of the Securities Exchange Act of <DATE>, as amended (the “Exch ange Act”), are filed with the U.S. Securities and Exchange",0
 Commission (the “SEC”). Such reports and other information filed by the Company with the SEC are available free of charge at investor .apple.com/investor-,0
 relations/sec-filings/default.aspx when such reports are available on the SEC’ s website. The Company periodically provides certain information for investors on,0
 "its corporate website, www .apple.com, and its investor relations website, investor .apple.com. This includes press releases and other information about financial",0
 "performance, information on environmental, social and governance matters, and details related to the Company’ s annual meeting of shareholders. The",0
 "information contained on the websites reference d in this Form <NUM>-K is not incorporated by reference into this filing. Further , the Company’ s references to website",0
 URLs are intended to be inactive textual references only .,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 Item <NUM>A.    Risk Factors,0
 "The Compan y’s busines s, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known",0
 "or unknown,  including those described below . When any one or more of these risks materialize from time to time, the Company’ s business, reputation, results of",0
@@ -1074,7 +1074,7 @@ and other financial institu tions; limitations on the Company’ s ability to is
 "Political events, trade and other international  disputes, war, terrorism, natural disasters, public health issues, industrial accidents and other business",0
 "interruptions can harm or disrupt international commerce and the global economy , and could have a material adverse effect on the Company and its customers,",0
 "suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.",0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company has a large, global business with sales outside the U.S. representing a majority of the Company’ s total net sales, and the Company believes that it",0
 generally benefits from growth in international trade. Substantially all of the Company’ s manufacturing is performed in whole or in part by outsourcing partners,0
 "located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam. Restrictions on international trade, such as tariffs and other controls on",0
@@ -1116,7 +1116,7 @@ businesses.,0
 "technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system,",0
 "numerous software applications and related services. As a result, the Company must make significant investments in R&D. There can be no assurance these",0
 "investments will achieve expected returns, and the Company may not be able to develop and market new products and services successfully .",0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Compa ny currently holds a significant number of patents, trademarks and copyrights and has registered, and applied to register , additional patents,",0
 "trademarks and copyrights. In contrast, many of the Company’ s competitors seek to compete primarily through aggressive pricing and very low cost structures,",0
 and by imitating the Company’ s products and infringing on its intellectual property . Effective intellectual property protection is not consistently available in every,0
@@ -1160,7 +1160,7 @@ the Company’ s direct control over production and distribution. Such diminishe
 consumer for warranty and out-of-warranty service in the event of product defects and experiences unanticipated product defect liabilities from time to time.,0
 "While the Company relies on its partners to adhere to its supplier code of conduct, violations of the supplier code of conduct occur from time to time and can",0
 "materially adversely af fect the Company’ s business, reputation, results of operations and financial condition.",0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components, and on outsourcing",0
 "partners primarily locate d in Asia, for final assembly of substantially all of the Company’ s hardware products. Any failure of these partners to perform can have a",0
 "negative impact on the Company’ s cost or supply of components or finished goods. In addition , manufacturing or logistics in these locations or transit to final",0
@@ -1205,7 +1205,7 @@ could make the Compa ny’s products unsafe and create a risk of environmental o
 "intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines. Quality problems can also adversely affect the",0
 "experience for users of the Company’ s product s and services, and result in harm to the Company’ s reputation, loss of competitive advantage, poor market",0
 "acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.",0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company is expos ed to the risk of write-downs on the value of its inventory and othe r assets, in addition to purchase commitment cancellation",0
 risk.,0
 "The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand, or for which cost exceeds",0
@@ -1246,12 +1246,12 @@ The Company relies on the continued availability and development of compelling a
 "and operatin g systems are subject to rapid technological change, and when third-party develo pers are unable to or choose not to keep up with this pace of",0
 "change, their applications can fail to take adva ntage of these changes to deliver improved customer experiences, can operate incorrectly , and can result in",0
 dissatisfied customers and lower customer demand for the Company’ s products.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company distributes third-party applications for its products through the App Store. For the vast majority of applications, developers keep all of the revenue",0
 they genera te on the App Store. The Compan y retains a commission from sales of applicat ions and sales of digital services or goods initiated within an,0
 "application. From time to time, the Company has made changes to its App Store, including actions taken in response to competition, market conditions and legal",0
 "and regulato ry requirem ents. The Company expects to make further business changes in the future, including as a result of legislative initiatives impacting the",0
-"App Store, such as the European Union (“EU”) Digital Markets Act, which the Company is requir ed to comply with by March <NUM> The Company is also subject",0
+"App Store, such as the European Union (“EU”) Digital <DATE> Act, which the Company is requir ed to comply with by <DATE> <DATE>. The Company is also subject",0
 "to litigation and investiga tions relating to the App Store, which have resulted in changes to the Company’ s business practices, and may in the future result in",0
 further chan ges. Changes have included how developers communicate with consumers outsid e the App Store regarding alternative purchasing mechanisms.,0
 "Future chan ges could also affect what the Company charges developers for access to its platforms, how it manages distribution of apps outside of the App",0
@@ -1289,7 +1289,7 @@ products and services from competitors. The Com pany also sells its products and
 "consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force.",0
 "Some carrie rs providing cellular network service  for the Company’ s products offer financing, installment payment plans or subsidies for users’  purchases of the",0
 device. There can be no assurance such of fers will be continued at all or in the same amounts.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company has invested and will continue to invest in programs to enhance reseller sales, including staffing selected resellers’  stores with Company",0
 "employees and contractors, and improving product placement displays. These programs can require a substantial investment while not assuring return or",0
 "incremental sales. The financial condition of these resellers could weaken, these resellers could stop distributing the Company’ s products, or uncertainty",0
@@ -1333,7 +1333,7 @@ The Company has implemented systems and processes intended to secure its informa
 result in the delay or loss of customer orders or impede customer access to the Company’ s products and services.,0
 "While the Company maintains insurance coverag e that is intended to address certain aspects of data security risks, such insurance coverage may be insuf ficient",0
 to cover all losses or all types of claims that may arise.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "Investment in new business strategies and acquisitions could disrupt the Company’ s ongoing business, present risks not originally contemplated",0
 "and materially adversely af fect the Company’ s business, reputation, results of operations and financial condition.",0
 "The Company has invested, and in the future may invest, in new business strategies or acquisitions. Such endeavors may involve significant risks and",0
@@ -1378,7 +1378,7 @@ The outcome of litigation  or government investiga tions is inherently uncertain
 "adversely af fect the Company’ s business, reputation, results of operations and financial condition.",0
 "While the Company maintains insurance coverage for certain types of claims, such insurance coverage may be insuf ficient to cover all losses or all types of",0
 claims that may arise.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Compa ny is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased",0
 costs and other adverse ef fects on the Company’ s business.,0
 "The Company’ s global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy , data security and data",0
@@ -1417,11 +1417,11 @@ stakeholder expectations and standards could result in legal and regulatory proc
 "the Company to increasing regulation, government investigations, legal actions and penalties.",0
 "From time to time, the Company has made changes to its App Store, including actions taken in response to litigation, competition, market conditions and legal",0
 "and regulato ry requirem ents. The Company expects to make further business changes in the future, including as a result of legislative initiatives impacting the",0
-"App Store, such as the EU Digital Markets Act, which the Company is required to comply with by March <NUM> or similar laws in other jurisdictions. Changes",0
+"App Store, such as the EU Digital <DATE> Act, which the Company is required to comply with by <DATE> <DATE>, or similar laws in other jurisdictions. Changes",0
 have included how deve lopers communicate with consumers outside the App Store regarding alternative purchasing mechanisms. Future changes could also,0
 "affect what the Compan y charges developers for access to its platforms, how it manages distribution of apps outside of the App Store, and how and to what",0
 extent it allows developers to communicate with consumers inside the App Store regarding alternative purchasing mechanisms.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Company is also currently subject to antitrust investigations in various jurisdictions aroun d the world, which can result in legal proceedings and claims",0
 "against the Company that could, individually or in the aggregate, have a materially adverse impact on the Company’ s business, results of operations and",0
 "financial condition. For example, the Company is the subject of investigations in Europe and other jurisdictions relating to App Store terms and conditions. If such",0
@@ -1460,7 +1460,7 @@ the Company can be liable for associated investigatory expenses and can also inc
 data security  standards.  The Company could also experience a significant increase in paymen t card transaction costs or lose the ability to process payment,0
 "cards if it fails to follow payment card industry data security standards, which could materially adversely affect the Company’ s business, reputation, results of",0
 operations and financial condition.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 Financial Risks,0
 The Company expects its quarterly net sales and results of operations to fluctuate.,0
 "The Compa ny’s profit margins vary across its products, services, geographic segments and distribution channels. For example, the gross margins on the",0
@@ -1500,7 +1500,7 @@ The Company is exposed to credit risk and fluctuations in the values of its inve
 "securities may fluctuate substantially . Therefore , although the Company has not realized any significant losses on its cash, cash equivalents and marketable",0
 "securities, future fluctuations in their value could result in significant losses and could have a material adverse impact on the Company’ s results of operations",0
 and financial condition.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 "The Compa ny is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables and prepayments related to long-term supply",0
 "agreements, and this risk is heightened during periods when economic conditions worsen.",0
 "The Company distributes its products and certai n of its services through third-party cellular netw ork carriers, wholesalers, retailers and resellers. The Company",0
@@ -1510,7 +1510,7 @@ portion of the Company’ s trade receivables can be concentrated within cellula
 collectibility risk on its trade receivables is highe r in certain international markets and its ability  to mitigate such risks may be limited. The Company also has,0
 unsecured vendor non-trade receivables resulting from purchases of components by outsourcing partners and other vendors that manufacture subassemblies or,0
 "assemble final products for the Company . In addition, the Company has made prepayments associated with long-term supply agreements to secure supply of",0
-inventory components. As of September <NUM> <NUM> the Company’ s vendor non-trade receivables  and prepayments related to long-term supply agreements were,0
+"inventory components. As of <DATE> <NUM> <DATE>, the Company’ s vendor non-trade receivables  and prepayments related to long-term supply agreements were",0
 concentrated among a few individual vendors located primarily in Asia. While the Company has procedures to monitor and limit exposure to credit risk on its,0
 "trade and vendor non-trade receivables, as well as long-term prepayments, there can be no assurance such procedures will effectively limit its credit risk and",0
 avoid losses.,0
@@ -1541,43 +1541,43 @@ Item <NUM>B.    Unresolved Staff Comments,0
 None.,0
 Item <NUM>C.    Cybersecurity,0
 Not applicable.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 Item <NUM>    Properties,0
-"The Company’ s headquarters is located in Cupertino, California. As of September <NUM> <NUM> the Company owned or leased facilities and land for corporate",0
+"The Company’ s headquarters is located in Cupertino, California. As of <DATE> <NUM> <DATE>, the Company owned or leased facilities and land for corporate",0
 "functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S. The Company believes its",0
 "existing facilities and equipment, which are used by all reportable segments, are in good operating condition and are suitable for the conduct of its business.",0
 Item <NUM>    Legal Proceedings,0
 Epic Games,0
 "Epic Games, Inc. (“Epic ”) filed a lawsuit in the U.S. District Court for the Northern District of California (the “District Court”) against the Company alleging",0
-violations of federal and state antitrust laws and California’ s unfair competition law based upon the Company’ s operation of its App Store. On September <NUM>,0
-<NUM> the District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic’ s claim. The District Court found that certain,0
+violations of federal and state antitrust laws and California’ s unfair competition law based upon the Company’ s operation of its App Store. On <DATE> <NUM>,0
+"<DATE>, the District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic’ s claim. The District Court found that certain",0
 provisions of the Comp any’s App Store Review Guidelines violate California’ s unfair competition law and issued an injunction enjoining the Company from,0
 prohibiting developers from including in their apps external links that direct customers to purchasing mechanisms other than Apple in-app purchasing. The,0
-injunction applies to apps on the U.S. storefront of the iOS and iPadOS App Store. On April <NUM> <NUM> the U.S. Court of Appeals for the Ninth Circuit (the “Circuit,0
-Court”) affirmed the District Court’ s ruling. On June <NUM> <NUM> the Company and Epic filed petitions with the Circuit Court requesting further review of the decision.,0
-On June <NUM> <NUM> the Circuit Court denied both petitions. On July <NUM> <NUM> the Circuit Cour t granted Apple’ s motion to stay enforcement of the injunction,0
+"injunction applies to apps on the U.S. storefront of the iOS and iPadOS App Store. On <DATE> <NUM> <DATE>, the U.S. Court of Appeals for the Ninth Circuit (the “Circuit",0
+"Court”) affirmed the District Court’ s ruling. On <DATE> <NUM> <DATE>, the Company and Epic filed petitions with the Circuit Court requesting further review of the decision.",0
+"On <DATE> <NUM> <DATE>, the Circuit Court denied both petitions. On <DATE> <NUM> <DATE>, the Circuit Cour t granted Apple’ s motion to stay enforcement of the injunction",0
 "pending appeal to the U.S. Supreme Court. If the U.S. Supreme Court denies Apple’ s petition, the stay of the injunction will expire.",0
 Masimo,0
 "Masimo Corporation and Cercacor Laboratories,  Inc. (together , “Masimo”) filed a complaint before the U.S. International Trade Commission (the “ITC”) alleging",0
 "infringement by the Com pany of five patents relating to the functionality of the blood oxygen feature in Apple Watch Series <NUM> and <NUM> In its complaint, Masimo",0
 sought a permanent exclusion order prohibiting importation to the United States of certain Apple Watch models that include blood oxygen sensing functionality .,0
-On October <NUM> <NUM> the ITC entered a limited exclusion order (the “Order”) prohibiting importation and sales in the United States of Apple Watch models with,0
+"On <DATE> <NUM> <DATE>, the ITC entered a limited exclusion order (the “Order”) prohibiting importation and sales in the United States of Apple Watch models with",0
 "blood oxygen sensing functionality , which includes Apple Watch Series <NUM> and Ultra <NUM> The Orde r will not go into effect until the end of the administrative review",0
-"period, which is currently expected to end on December <NUM> <NUM> The Company intends to appeal the Order and seek a stay pending the appeal.",0
+"period, which is currently expected to end on <DATE> <NUM> <DATE>. The Company intends to appeal the Order and seek a stay pending the appeal.",0
 Other Legal Proceedings,0
 The Compan y is subject to other legal proceedi ngs and claims that have not been fully resolved and that have arisen in the ordinary course of business. The,0
-Company settled certain matters during the fourth quarter of <NUM> that did not individually or in the aggregate have a material impact on the Company’ s financial,0
+Company settled certain matters during the fourth quarter of <DATE> that did not individually or in the aggregate have a material impact on the Company’ s financial,0
 condition or operating results. The outcome of litigation is inherently uncertain. If one or more legal matters were resolved against the Company in a reporting,0
 "period for amounts above management’ s expectations, the Company’ s financial condition and operating results for that reporting period could be materially",0
 adversely af fected.,0
 Item <NUM>    Mine Safety Disclosures,0
 Not applicable.,0
-Apple Inc. | <NUM> Form <NUM>-K | <NUM>,0
+Apple Inc. | <DATE> Form <NUM>-K | <NUM>,0
 PART II,0
-"Item <NUM>    Market for Registrant’ s Common Equity , Related Stockholder Matters and Issuer Purchases of Equity Securities",0
-The Company’ s common stock is traded on The Nasdaq Stock Market LLC under the symbol AAPL.,0
+"Item <NUM>    <DATE> for Registrant’ s Common Equity , Related Stockholder Matters and Issuer Purchases of Equity Securities",0
+The Company’ s common stock is traded on The Nasdaq Stock <DATE> LLC under the symbol AAPL.,0
 Holders,0
-As of October <NUM> <NUM> there were <NUM> shareholders of record.,0
+"As of <DATE> <NUM> <DATE>, there were <NUM> shareholders of record.",0
 Products $ <NUM> $ <NUM> $ <NUM>,1
 Services <NUM> <NUM> <NUM>,1
 Total gross margin $ <NUM> $ <NUM> $ <NUM>,1
@@ -1620,13 +1620,13 @@ Total change in unrealized gains/losses on marketable debt securities <NUM> (<NU
 Total other comprehensive income/(loss) (<NUM>) (<NUM>) <NUM>,1
 Total comprehensive income $ <NUM> $ <NUM> $ <NUM>,1
 Cash and cash equivalents $ <NUM> $ <NUM>,1
-Marketable securities <NUM> <NUM>,1
+<DATE> securities <NUM> <NUM>,1
 "Accounts receivable, net <NUM> <NUM>",1
 Vendor non-trade receivables <NUM> <NUM>,1
 Inventories <NUM> <NUM>,1
 Other current assets <NUM> <NUM>,1
 Total current assets <NUM> <NUM>,1
-Marketable securities <NUM> <NUM>,1
+<DATE> securities <NUM> <NUM>,1
 "Property , plant and equipment, net <NUM> <NUM>",1
 Other non-current assets <NUM> <NUM>,1
 Total non-current assets <NUM> <NUM>,1
@@ -1685,7 +1685,7 @@ Repayments of term debt (<NUM>) (<NUM>) (<NUM>),1
 "Proceeds from/(Repayments of) commercial paper, net (<NUM>) <NUM> <NUM>",1
 Other (<NUM>) (<NUM>) <NUM>,1
 Cash used in financing activities (<NUM>) (<NUM>) (<NUM>),1
-"Increase/(Decrease) in cash, cash equivalents and restricted cash <NUM> (<NUM>) (<NUM>)",1
+"Increase/(<DATE>) in cash, cash equivalents and restricted cash <NUM> (<NUM>) (<NUM>)",1
 "Cash, cash equivalents and restricted cash, ending balances $ <NUM> $ <NUM> $ <NUM>",1
 "Cash paid for income taxes, net $ <NUM> $ <NUM> $ <NUM>",1
 Cash paid for interest $ <NUM> $ <NUM> $ <NUM>,1
@@ -1700,3 +1700,1241 @@ Effect of dilutive share-based awards <NUM> <NUM> <NUM>,1
 "Weighted-average diluted shares <NUM>,<NUM> <NUM>,<NUM> <NUM>,<NUM>",1
 Basic earnings per share $ <NUM> $ <NUM> $ <NUM>,1
 Diluted earnings per share $ <NUM> $ <NUM> $ <NUM>,1
+NOTE <NUM> — DERIVATIVES,0
+<NUM>,0
+<NUM>,0
+<DATE> <DATE>  <NUM>,0
+<DATE>,0
+<DATE> <DATE>  <NUM>,0
+<DATE>,0
+<DATE>  <NUM> <DATE>,0
+<NUM>,0
+<DATE>  <NUM> <DATE>,0
+<NUM>,0
+<DATE>  <NUM> <DATE>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+Year Ended <DATE>  <NUM> <DATE> <DATE> <DATE>,0
+Year Ended <DATE>  <NUM> <DATE> <DATE> <DATE>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<DATE>  <NUM> <DATE>  $  <NUM>,0
+<DATE>  <NUM> <DATE>     <NUM>,0
+<DATE>  <NUM> <DATE>     <NUM>,0
+<DATE>  <NUM> <DATE>     <NUM>,0
+Thereafter     <NUM>,0
+<DATE>:,0
+"* $<NUM> invested on <DATE>/<NUM> in stock or index, including reinvestment of dividends. Fiscal year ending <DATE> <NUM>",0
+<NUM>,0
+<NUM>,0
+"Surface Go <NUM> Surface Pro <NUM> Surface Laptop <NUM> Surface Pro X, Surface Studio <NUM> and Surface Duo.",0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+"As of <DATE>  <NUM> <NUM> <NUM> we employed approximately <NUM> people on a full -time basis, <NUM> in the U.S. and <NUM>",0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+subscribe to Office <NUM>,0
+<NUM>,0
+<NUM>,0
+ended <DATE>  <NUM> <DATE> compared to the year ended <DATE>  <NUM> <DATE>. For a discussion of the year ended <DATE>  <NUM> <DATE>,0
+<DATE>.,0
+<NUM>,0
+<NUM>,0
+<DATE> <DATE> <DATE> <DATE> <DATE> <DATE>,0
+<NUM>,0
+"delivered $<NUM>  billion in revenue, up <NUM>  percent year -over-year. Operating income grew <NUM>  percent to $<NUM>  billion. And we",0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<NUM>,0
+<DATE>  <NUM> <DATE>,0
+"approved on <DATE>  <NUM> <DATE>, has no expiration date, and may be termina ted at any time. As of <DATE>  <NUM> <DATE>,",0
+Year Ended <DATE>  <NUM>  <DATE>    <DATE>    <DATE>,0
+First Quarter   <NUM>  $ <NUM>    <NUM>  $ <NUM>    <NUM>  $ <NUM>,0
+Second Quarter   <NUM>   <NUM>    <NUM>   <NUM>    <NUM>   <NUM>,0
+Third Quarter   <NUM>   <NUM>    <NUM>   <NUM>    <NUM>   <NUM>,0
+Fourth Quarter   <NUM>   <NUM>    <NUM>   <NUM>    <NUM>   <NUM>,0
+Total <NUM> $  <NUM>   <NUM> $   <NUM>   <NUM> $   <NUM>,0
+Total <NUM> $  <NUM>   <NUM> $   <NUM>   <NUM> $   <NUM>,0
+the share repurchase pr ograms approved on both <DATE>  <NUM> <DATE> and <DATE>  <NUM> <DATE>. All other shares,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>   $   <NUM>  $ <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE> <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+Total      $ <NUM>  $   <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>   $ <NUM>  $ <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE> <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+<DATE>  <NUM> <DATE>   <DATE>  <NUM> <DATE>    <DATE>  <NUM> <DATE>      <NUM>     <NUM>,0
+Total     $ <NUM>  $ <NUM>,0
+The dividend declared on <DATE>  <NUM> <DATE> was included in other current liabilities as of <DATE>  <NUM> <DATE>.,0
+<NUM>,0
+<DATE> <DATE> <DATE> <DATE> <DATE> <DATE>,0
+<NUM>,0
+<NUM>,0
+<DATE> <NUM> <DATE>,0
+"statements‖) as of and for the year ended <DATE>  <NUM> <DATE>, of the Company and our report dated <DATE>  <NUM> <DATE>, expressed",0
+<DATE> <NUM> <DATE>,0
+"Clayton, Dubilier  & Rice  John W. Thompson <NUM>",0
+Hugh F. Johnston <NUM>,0
+PepsiCo  Charles W. Scharf <NUM>,0
+"President, Wells Fargo  & Company  Padmasree Warrior <NUM>",0
+Teri L. List <NUM>,0
+<NUM>,0
+Call us toll -free at (<NUM>) <NUM> -<DATE> or outside the United,0
+"States, call (<NUM>) <NUM> -<DATE>. We can be contacted",0
+between the hours of <NUM>:<NUM> a.m. to <NUM>:<NUM> p.m. Pacific Time,0
+"Redmond, Washington <DATE><NUM> -<DATE>",0
+"Date: Tuesday, <DATE>  <NUM> <DATE>",0
+Time: <NUM>:<NUM> a.m. Pacific Time,0
+"these services and programs at <NUM> -<NUM>-<DATE>, option <NUM>",0
+P.O. Box <DATE><NUM>,0
+"Louisville, KY <DATE><NUM> -<DATE>",0
+Delaware <NUM>-<DATE><NUM>,0
+"Registrant’s telephone number, including area code: (<NUM>) <NUM>-<DATE>",0
+<DATE> <NUM> <DATE> - <DATE> <NUM> <DATE> <NUM> $ <NUM> <NUM> $ <NUM>,0
+<DATE> <NUM> <DATE> - <DATE> <NUM> <DATE> <NUM> $ <NUM> <NUM> $ <NUM>,0
+<DATE> <NUM> <DATE> - <DATE> <NUM> <DATE> <NUM> $ <NUM> <NUM> $ <NUM>,0
+Total <NUM> <NUM>,0
+NVIDIA  Corporation $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM>.<NUM>,0
+S&P <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM>,0
+Nasdaq <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM>,0
+Aarti Shah Director Termination <DATE> <NUM> <DATE> <NUM>* N/A,0
+<DATE> <NUM>,0
+Form <NUM>-K. <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> Level <NUM> $ <NUM> $ <NUM>,0
+<NUM>% Notes Due <DATE> (<NUM>) — <NUM>% $ — $ <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+<NUM>% Notes Due <DATE> <NUM> <NUM>% <NUM> <NUM>,0
+Other <NUM> (<NUM>) (<NUM>),0
+"<NUM> Reference is made to Exhibits <NUM>, <NUM>, <NUM> and <NUM>",0
+<NUM>)<NUM>-Q <NUM> <DATE>/<DATE>,0
+<NUM>)<NUM>-Q <NUM> <DATE>/<DATE>,0
+FISCAL YEAR ENDED AUGUST <NUM> <DATE>ANNUAL REPORT<DATE>,0
+<DATE> <NUM> <DATE>,0
+Dear Costco Shareholders:,0
+"When we started fiscal <DATE>, we expected to proceed with business as usual, focusing on providing Costco members with quality",0
+merchandise and exceptional value. Little did we know what lay ahead.,0
+"As the coronavirus pandemic swept the globe and crippled much of the world’s economy, Costco was designated as an essential",0
+"business, a responsibility we took seriously. In a time of uncertainty and panic purchasing by members, we went 'all out' to tryto maintain adequate supplies of necessities, including food, cleaning products, and personal care items. We targeted our effortson these in-demand goods, installed protective barriers at the registers, increased our sanitation at high-touch areas, establishedsocial distancing protocols and face covering policies, created special operating hours for high-risk individuals and first responders,and donated surgical masks to healthcare workers. Certain of our ancillary businesses were temporarily closed, and our foodcourts continue to face significant restrictions. In addition, Costco Travel endured a tumultuous time, as tens of thousands ofmembers canceled bookings and requested refunds. To reward our employees for exemplary service in difficult times, wetemporarily increased compensation levels and otherwise increased spending for wages and benefits, including overtime pay.",0
+"Net sales for fiscal <DATE> totaled $<NUM> billion, an increase of <NUM>%, with a comparable sales increase of <NUM>%. Net income was $<NUM>",0
+"billion, or $<NUM> per diluted share, an increase of <NUM>%. In addition, the Company surpassed <NUM> million members worldwide,contributing to membership revenue of $<NUM> billion.",0
+"Costco.com played a vital role in meeting members’ needs, especially those choosing or required to stay at home. Our ecommerce",0
+"business saw a <NUM>% increase in sales. Increases were particularly evident in same day and <NUM>-day grocery deliveries, prescriptionmedications, electronics, and office supplies.Additional strong sales were seen in apparel, appliances, health and beauty products,and home furnishings. Our depots responded to unprecedented volume by shifting certain operations to <NUM> hours a day, sevendays a week. As circumstances allowed, expansion in fiscal <DATE> continued, with the opening of <NUM> new warehouses. In fiscal<DATE>, we expect to open <NUM> new buildings.",0
+"While international trade issues and tariffs threatened increased prices on some goods, we worked diligently on both short- and",0
+"long-term mitigation strategies. Buyers worked with suppliers to share in the absorption of tariffs, create new efficiencies in logisticsand transportation, and move production origin. Buyers were committed to keeping us in stock, despite reduced workforces,factory closures, government restrictions and financial hardships.",0
+"The Kirkland Signature™ brand saw another solid year, with global sales exceeding $<NUM> billion. This growth of <NUM>% was a result",0
+"of several factors, including an emphasis on core items in categories such as grocery, health and beauty, home cleaning, andpaper goods. Continuous improvements were a focus for key items, such as diapers, bar soap and frozen foods. We introducednew products in expanded categories, including the first Kirkland Signature putter, motor oil, copper exposed cookware, andapparel items. Our chicken complex in Nebraska became fully operational in fiscal <DATE>.",0
+"Costco also made two important investments this year, the acquisition of Innovel (now known as Costco Wholesale Logistics or",0
+"CWL) and a minority interest in Navitus. CWL is a logistics supplier, with infrastructure for efficient delivery and installation of bigand bulky items, such as appliances, furniture, and exercise equipment. Navitus, a pharmacy benefit manager, will help us lowerthe health care spend for patients at our pharmacies, optical and hearing aid departments. Both acquisitions align with ourphilosophy of reducing costs and passing on the savings to our members.",0
+We continue to address sustainability in our supply chains. We support good land stewardship practices that include: avoiding,0
+"deforestation and conversion of natural ecosystems; sourcing products from responsibly managed and certified forests; andfocusing on preserving native grasslands. Through these efforts and others, we seek to protect valuable natural resources andreduce our environmental impact. Our Sustainability Commitment was updated in <DATE> <DATE> to outline our progress thisyear and includes our new Climate Action Plan and Forest Conservation Commitment. In fiscal <DATE>, Costco donated an estimated<NUM> million pounds of food to those in need.",0
+"As we near the end of this extraordinary year, I extend my deepest gratitude to Costco employees, especially those on the front",0
+"lines of our warehouses, whose exemplary service to members, dedication to the company, and support of one another has trulydemonstrated excellence. Finally, I thank Costco members around the world for their loyal support and trust in our business.Together, we’ve made it through this trying year, and I am confident we will tackle whatever is ahead with strength and optimism.",0
+"From the Costco family to yours, I wish you a happy, prosperous and healthy New Year.",0
+"Sincerely,",0
+Craig Jelinek,0
+President and Chief Executive Officer,0
+Canada,0
+Puerto Rico   United States and,0
+Mexico<NUM>,0
+<NUM>,0
+<NUM>,0
+UNITED,0
+STATES,0
+COSTCO.COM,0
+ALABAMA –<NUM>,0
+ALASKA – <NUM>,0
+ARIZONA – <NUM>,0
+CALIFORNIA – <NUM> <NUM>,0
+COLORADO – <NUM>,0
+CONNECTICUT – <NUM>,0
+DELAWARE – <NUM>,0
+FLORIDA – <NUM>,0
+GEORGIA – <NUM> <NUM>,0
+HAWAII – <NUM>,0
+IDAHO – <NUM>,0
+ILLINOIS – <NUM>,0
+INDIANA –<NUM>,0
+IOWA – <NUM>,0
+KANSAS – <NUM>,0
+KENTUCKY – <NUM>,0
+LOUISIANA – <NUM>,0
+MARYLAND –<NUM>,0
+MASSA CHUSETTS – <NUM>,0
+MICHIGA,0
+AN – <NUM>,0
+GA,0
+MINNESOT,0
+OTA – <NUM>,0
+OT,0
+MISSOURI – <NUM>,0
+<NUM>,0
+<NUM>,0
+MISSISSIPPI – <NUM>,0
+MONTANA – <NUM>,0
+NEBRA SKA – <NUM>,0
+NEVADA – <NUM>,0
+NEW HAMP SHIRE – <NUM>,0
+NEW JERSEY – <NUM>,0
+NEW MEXI CO – <NUM>,0
+NEW YORK – <NUM>,0
+NORTH CAROLINA – <NUM>,0
+NORTH DAKOTA – <NUM>,0
+OHIO – <NUM>,0
+OKLAH OMA – <NUM>,0
+OREGON – <NUM> <NUM>,0
+PENNSYLVANIA – <NUM>,0
+SOUTH CAROLINA – <NUM>,0
+SOUTH DAK OTA – <NUM>,0
+TENNE SSEE – <NUM>,0
+TEXAS – <NUM> <NUM>,0
+UTAH – <NUM> <NUM>,0
+VERMONT – <NUM>,0
+VIRG,0
+– <NUM>,0
+VIRGINIA – <NUM>,0
+VIRGINIA – <NUM>,0
+WASHIN,0
+NGTON – <NUM>,0
+HIN,0
+HING,0
+WISCONSIN –,0
+SIN – <NUM>,0
+"WASHINGTON, D.C. – <NUM>",0
+– <NUM>,0
+PUERTO RICO – <NUM>,0
+CANADA,0
+COSTCO.C A,0
+ALBERTA – <NUM> <NUM>,0
+BRITISH COLUMBIA – <NUM>,0
+MANITOBA – <NUM>,0
+NEW BRUNSWI CK – <NUM>,0
+NEWFOUNDLAND AN D,0
+LABRADOR – <NUM>,0
+NOVA SCOTIA – <NUM>,0
+ONTARIO – <NUM>,0
+QUÉBEC – <NUM> <NUM>,0
+SASKAT CHEWAN – <NUM>,0
+MEXICO,0
+COSTCO .CO,0
+COSTCO.COM.MX,0
+AGUASCALI E,0
+ENTES – <NUM>,0
+BAJA CALIFO,0
+ORNIA – <NUM>,0
+BAJA CALIFO,0
+FORNIA SUR – <NUM>,0
+CHIHUAHUA,0
+UA – <NUM>,0
+CIUDAD,0
+D DE MÉXICO – <NUM>,0
+COA,0
+AHUILA – <NUM>,0
+GUA,0
+UANAJUATO – <NUM>,0
+JA,0
+ALISCO – <NUM>,0
+MÉXIC,0
+ÉXICO – <NUM>,0
+MICH,0
+MICHOACÁN – <NUM>,0
+MORELOS – <NUM>,0
+NUEVO LEÓN – <NUM>,0
+PUEBLA – <NUM>,0
+QUERÉTARO – <NUM>,0
+QUINTANA ROO – <NUM>,0
+SAN LUIS P OTOSÍ – <NUM>,0
+SINALOA – <NUM>,0
+SONORA – <NUM>,0
+TABASCO – <NUM>,0
+VERACRUZ – <NUM>,0
+YUCATÁN – <NUM>,0
+AustraliaChina,0
+SpainFranceIceland,0
+United,0
+Kingdom,0
+<NUM>,0
+<NUM>,0
+<NUM>TaiwanJapan,0
+Korea,0
+<DATE><NUM>,0
+COR<DATE><NUM>  <DATE>,0
+FRANCE,0
+ÎLE-DE-FRAN CE –<NUM>,0
+ICELAND,0
+KAUPTÚN – <NUM>,0
+SPAIN,0
+ANDALUCÍA – <NUM>,0
+MADRID – <NUM>,0
+UNITED,0
+KINGDOM,0
+COSTCO.CO.UK,0
+AND – <NUM>,0
+ENGLAN D,0
+ND – <NUM>,0
+SCOTLAND – <NUM>,0
+WALE S – <NUM>,0
+CHINA,0
+SHANGHAI – <NUM>,0
+JAPAN,0
+P,0
+COSTCO.CO.JP,0
+AICHI – <NUM>,0
+CHIBA – <NUM>,0
+FUKUOKA – <NUM>,0
+GIFU – <NUM>,0
+GUNMA – <NUM>,0
+HIROSHIMA – <NUM>,0
+HOKKAID O – <NUM>,0
+KOREA,0
+COSTCO.CO.KR,0
+BUSAN – <NUM>,0
+CHUNGCHEONGNAM-DO – <NUM>,0
+DAEGU – <NUM>,0
+DAEJE ON – <NUM>,0
+GYEONGGI-DO – <NUM>,0
+INCHEON – <NUM>,0
+SEJONG – <NUM>,0
+SEOUL – <NUM>,0
+ULSAN – <NUM>HYOGO – <NUM>,0
+IBARAKI –<NUM>,0
+ISHIKAWA – <NUM>,0
+KANAGAWA – <NUM>KY,0
+OTO – <NUM>,0
+MIYAGI – <NUM>,0
+OSAKA – <NUM>,0
+SAITAMA – <NUM>,0
+SHIZU OKA – <NUM>,0
+TOKYO – <NUM>TOYAMA – <NUM>,0
+YAMAGATA – <NUM>,0
+TAIWAN,0
+COSTCO.COM.TW,0
+CHIAYI CITY – <NUM>HSIN,0
+CHU CITY – <NUM>,0
+KAOHSIUN G CITY – <NUM>,0
+NEW TAIPEI CITY – <NUM>TAI,0
+CHUNG CITY – <NUM>,0
+TAINAN CITY – <NUM>,0
+TAIPEI CITY – <NUM>,0
+TAOYUAN CITY – <NUM>,0
+AUSTRALIA,0
+COSTCO.COM.AU,0
+AUSTRALIAN CAPITAL,0
+TERRIT ORY – <NUM>,0
+NEW SOUTH WALES – <NUM>,0
+QUEENSLAND – <NUM>,0
+SOUTH AUSTRALIA – <NUM>,0
+VICTORIA – <NUM>,0
+WESTERN AU STRALIA – <NUM>,0
+UNITED STATES,0
+SECURITIES AND EXCHANGE COMMISSION,0
+"Washington, D.C. <DATE><NUM>",0
+FORM <NUM>-K,0
+☒ ANNUAL REPORT PURSUANT TO SECTION <NUM> OR <NUM>(d) OF THE SECURITIES,0
+EXCHANGE ACT OF <DATE>,0
+For the fiscal year ended <DATE> <NUM> <DATE>,0
+or,0
+☐ TRANSITION REPORT PURSUANT TO SECTION <NUM> OR <NUM>(d) OF THE SECURITIES,0
+EXCHANGE ACT OF <DATE>,0
+Commission file number <NUM>-<DATE><NUM>,0
+Costco Wholesale Corporation,0
+(Exact name of registrant as specified in its charter),0
+Washington <NUM>-<DATE><NUM>,0
+(State or other jurisdiction of,0
+incorporation or organization)(I.R.S. Employer Identification No.),0
+"<NUM> Lake Drive, Issaquah, WA <DATE><NUM>",0
+(Address of principal executive offices) (Zip Code),0
+"Registrant’s telephone number, including area code: (<NUM>) <NUM>-<DATE>",0
+Securities registered pursuant to Section <NUM>(b) of the Act:,0
+Title of each class Trading SymbolName of each exchange on,0
+which registered,0
+"Common Stock, $.<NUM> Par Value COST The NASDAQ Global Select <DATE>",0
+Securities registered pursuant to Section <NUM>(g) of the Act: None,0
+"Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule <NUM> of the Securities Act.",0
+Yes☒No☐,0
+Indicate by check mark if the registrant is not required to file reports pursuant to Section <NUM> or Section <NUM>(d) of the,0
+Act. Yes ☐No☒,0
+Indicate by check mark whether the registrant (<NUM>) has filed all reports required to be filed by Section <NUM> or <NUM>(d) of the,0
+"Securities Exchange Act of <DATE> during the preceding <NUM> months (or for such shorter period that the registrant wasrequired to file such reports), and (<NUM>) has been subject to such filing requirements for the past <NUM> days. Yes ☒No☐",0
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be,0
+submitted pursuant to Rule <NUM> of Regulation S-T (§ <NUM> of this chapter) during the preceding <NUM> months (or forsuch shorter period that the registrant was required to submit such files). Yes ☒No☐,0
+"Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer,",0
+"a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,”“accelerated filer”, “smaller reporting company”, and emerging growth company"" in Rule <NUM>b-<NUM> of the Exchange Act.""",0
+Large accelerated filer ☒Accelerated filer ☐,0
+Non-accelerated filer ☐Smaller reporting company ☐,0
+Emerging growth company ☐,0
+"If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition",0
+period for complying with any new or revised financial accounting standards provided pursuant to Section <NUM>(a) of theExchange Act. ☐,0
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment,0
+of the effectiveness of its internal control over financial reporting under Section <NUM>(b) of the Sarbanes-Oxley Act (<NUM>U.S.C. <DATE>(b)) by the registered public accounting firm that prepared or issued its audit report. ☒,0
+Indicate by check mark whether the registrant is a shell company (as defined in Rule <NUM>b-<NUM> of the Act). Yes ☐No☒,0
+The aggregate market value of the voting stock held by non-affiliates of the registrant as of <DATE> <NUM> <DATE> was,0
+"$<NUM>,<NUM>.",0
+"The number of shares outstanding of the registrant’s common stock as of <DATE> <NUM> <DATE> was <NUM>,<NUM>",0
+DOCUMENTS INCORPORATED BY REFERENCE,0
+"Portions of the Company’s Proxy Statement for the Annual Meeting of Shareholders to be held on <DATE> <NUM> <DATE>,",0
+are incorporated by reference into Part III of this Form <NUM>-K.,0
+COSTCO WHOLESALE CORPORATION,0
+ANNUAL REPORT ON FORM <NUM>-K FOR THE FISCAL YEAR ENDED AUGUST <NUM> <DATE>,0
+TABLE OF CONTENTS,0
+Page,0
+PART I,0
+Item <NUM> Business .......................................................... <NUM>,0
+Item <NUM>A. Risk Factors ....................................................... <NUM>,0
+Item <NUM>B. Unresolved Staff Comments ........................................... <NUM>,0
+Item <NUM> Properties ......................................................... <NUM>,0
+Item <NUM> Legal Proceedings .................................................. <NUM>,0
+Item <NUM> Mine Safety Disclosures .............................................. <NUM>,0
+PART II,0
+"Item <NUM> <DATE> for Registrant’s Common Equity, Related Stockholder Matters and Issuer",0
+Purchases of Equity Securities ....................................... <NUM>,0
+Item <NUM> Selected Financial Data .............................................. <NUM>,0
+Item <NUM> Management’s Discussion and Analysis of Financial Condition and Results of,0
+Operations ....................................................... <NUM>,0
+Item <NUM>A. Quantitative and Qualitative Disclosures About <DATE> Risk .................. <NUM>,0
+Item <NUM> Financial Statements and Supplementary Data ............................ <NUM>,0
+Item <NUM> Changes in and Disagreements with Accountants on Accounting and Financial,0
+Disclosure ....................................................... <NUM>,0
+Item <NUM>A. Controls and Procedures ............................................. <NUM>,0
+Item <NUM>B. Other Information ................................................... <NUM>,0
+PART III,0
+"Item <NUM> Directors, Executive Officers and Corporate Governance .................... <NUM>",0
+Item <NUM> Executive Compensation ............................................. <NUM>,0
+Item <NUM> Security Ownership of Certain Beneficial Owners and Management and Related,0
+Stockholder Matters ............................................... <NUM>,0
+"Item <NUM> Certain Relationships and Related Transactions, and Director Independence .... <NUM>",0
+Item <NUM> Principal Accounting Fees and Services ................................. <NUM>,0
+PART IV,0
+"Item <NUM> Exhibits, Financial Statement Schedules ................................. <NUM>",0
+Item <NUM> Form <NUM>-K Summary ................................................ <NUM>,0
+Signatures ......................................................... <NUM>,0
+<NUM>,0
+INFORMATION RELATING TO FORWARD LOOKING STATEMENTS,0
+Certain statements contained in this Report constitute forward-looking statements within the meaning of,0
+PART I,0
+"Item <NUM>—BusinessCostco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in <DATE>, in",0
+"Seattle, Washington. We are principally engaged in the operation of membership warehouses in theUnited States (U.S.) and Puerto Rico, Canada, United Kingdom (U.K.), Mexico, Japan, Korea, Australia,Spain, France, Iceland, China, and through a majority-owned subsidiary in Taiwan. Costco operated <NUM>, and <NUM> warehouses worldwide at <DATE> <NUM> <DATE>, <DATE> <NUM> <DATE>, and <DATE> <NUM> <DATE>,respectively. The Company operates e-commerce websites in the U.S., Canada, Mexico, U.K., Korea,Taiwan, Japan, and Australia. Our common stock trades on the NASDAQ Global Select <DATE>, under thesymbol “COST.”",0
+"We report on a <DATE>-week fiscal year, consisting of thirteen four-week periods and ending on the Sunday",0
+"nearest the end of <DATE>. The first three quarters consist of three periods each, and the fourth quarterconsists of four periods (five weeks in the thirteenth period in a <NUM>-week year). The material seasonalimpact in our operations is increased net sales and earnings during the winter holiday season.References to <DATE>, <DATE>, and <DATE> relate to the <NUM>-week fiscal years ended <DATE> <NUM> <DATE>,<DATE> <NUM> <DATE>, and <DATE> <NUM> <DATE>, respectively.",0
+General,0
+We operate membership warehouses based on the concept that offering our members low prices on a,0
+"limited selection of nationally-branded and private-label products in a wide range of categories willproduce high sales volumes and rapid inventory turnover. When combined with the operating efficienciesachieved by volume purchasing, efficient distribution and reduced handling of merchandise in no-frills,self-service warehouse facilities, these volumes and turnover enable us to operate profitably atsignificantly lower gross margins (net sales less merchandise costs) than most other retailers. Wegenerally sell inventory before we are required to pay for it, even while taking advantage of early paymentdiscounts.",0
+We buy most of our merchandise directly from manufacturers and route it to cross-docking consolidation,0
+"points (depots) or directly to our warehouses. Our depots receive large shipments from manufacturersand quickly ship these goods to warehouses. This process creates freight volume and handlingefficiencies, lowering costs associated with traditional multiple-step distribution channels.",0
+<NUM>,0
+"Our average warehouse space is approximately <NUM> square feet, with newer units being slightly",0
+"larger. Floor plans are designed for economy and efficiency in the use of selling space, the handling ofmerchandise, and the control of inventory. Because shoppers are attracted principally by the quality ofmerchandise and low prices, our warehouses are not elaborate. By strictly controlling the entrances andexits and using a membership format, we believe our inventory losses (shrinkage) are well below those oftypical retail operations.",0
+"Our warehouses on average operate on a seven-day, <NUM>-hour week. Gasoline operations generally have",0
+"extended hours. Because the hours of operation are shorter than other retailers, and due to otherefficiencies inherent in a warehouse-type operation, labor costs are lower relative to the volume of sales.Merchandise is generally stored on racks above the sales floor and displayed on pallets containing largequantities, reducing labor required. In general, with variations by country, our warehouses accept certaincredit cards, including Costco co-branded cards, debit cards, cash and checks, co-brand cardholderrebates, executive member <NUM>% reward certificates and our proprietary stored-value card (shop card).",0
+Our strategy is to provide our members with a broad range of high-quality merchandise at prices we,0
+"believe are consistently lower than elsewhere. We seek to limit most items to fast-selling models, sizes,and colors. We carry an average of approximately <NUM> active stock keeping units (SKUs) perwarehouse in our core warehouse business, significantly less than other broadline retailers. We averageanywhere from <NUM> to <NUM> SKUs online, some of which are also available in our warehouses. Manyconsumable products are offered for sale in case, carton, or multiple-pack quantities only.",0
+"In keeping with our policy of member satisfaction, we generally accept returns of merchandise. On certain",0
+"electronic items, we typically have a <NUM>-day return policy and provide, free of charge, technical supportservices, as well as an extended warranty. Additional third-party warranty coverage is sold on certainelectronic items.",0
+We offer merchandise in the following categories:,0
+"• Food and Sundries (including dry foods, packaged foods, groceries, snack foods, candy,",0
+"alcoholic and nonalcoholic beverages, and cleaning supplies)",0
+"• Hardlines (including major appliances, electronics, health and beauty aids, hardware, and garden",0
+and patio),0
+"• Fresh Foods (including meat, produce, deli, and bakery)",0
+• Softlines (including apparel and small appliances),0
+• Ancillary (including gasoline and pharmacy businesses),0
+"Ancillary businesses within or next to our warehouses provide expanded products and services,",0
+"encouraging members to shop more frequently. These businesses include gas stations, pharmacies,optical dispensing centers, food courts, and hearing-aid centers. The number of warehouses with gasstations varies significantly by country, and we do not currently operate our gasoline business in Korea orChina. We operated <NUM> gas stations at the end of <DATE>. Net sales for our gasoline business representedapproximately <NUM>% of total net sales in <DATE>.",0
+Our e-commerce operations allow us to connect with our members online and provide additional products,0
+"and services, many not found in our warehouses. Net sales for e-commerce represented approximately<NUM>% of total net sales in <DATE>. This figure does not consider other services we offer online in certaincountries such as business delivery, travel, same-day grocery, and various other services.",0
+We have direct buying relationships with many producers of national brand-name merchandise. We do,0
+"not obtain a significant portion of merchandise from any one supplier. The COVID-<NUM> pandemic createdunprecedented supply constraints including disruptions and delays that have impacted and could continueto impact the flow and availability of certain products. When sources of supply become unavailable, weseek alternative sources. We also purchase and manufacture private-label merchandise, as long asquality and member demand are high and the value to our members is significant.",0
+<NUM>,0
+Certain financial information for our segments and geographic areas is included in Note <NUM> to the,0
+consolidated financial statements included in Item <NUM> of this Report.,0
+MembershipOur members may utilize their memberships at our warehouses worldwide. Gold Star memberships are,0
+"available to individuals; Business memberships are limited to businesses, including individuals with abusiness license, retail sales license or comparable document. Business members may add additionalcardholders (affiliates), to which the same annual fee applies. Affiliates are not available for Gold Starmembers. Our annual fee for these memberships is $<NUM> in our U.S. and Canadian operations and variesin other countries. All paid memberships include a free household card.",0
+Our member renewal rate was <NUM>% in the U.S. and Canada and <NUM>% on a worldwide basis at the end of,0
+<DATE>. The majority of members renew within six months following their renewal date. Our renewal rate isa trailing calculation that captures renewals during the period seven to eighteen months prior to thereporting date.,0
+Our membership counts include active memberships as well as memberships that have not renewed,0
+"within the <NUM> months prior to the reporting date. At the end of <DATE>, we standardized our membershipcount methodology globally to be consistent with the U.S. and Canada, which resulted in the addition tothe count of approximately <NUM> million total cardholders for <DATE>, of which <NUM> million were paid members.The change did not impact <DATE> or <DATE>. Membership fee income and the renewal rate calculations werenot affected. Our membership was made up of the following (in thousands):",0
+<DATE> <DATE> <DATE>,0
+Gold Star ............................................ <NUM> <NUM> <NUM>,1
+"Business, including affiliates ............................ <NUM> <NUM> <NUM>",1
+Total paid members .................................. <NUM> <NUM> <NUM>,1
+Household cards ..................................... <NUM> <NUM> <NUM>,1
+Total cardholders .................................... <NUM> <NUM> <NUM>,1
+Full-time employees ................................... <NUM> <NUM> <NUM>,1
+Part-time employees .................................. <NUM> <NUM> <NUM>,1
+Total employees ................................... <NUM> <NUM> <NUM>,1
+good.,0
+<NUM>,0
+Competition,0
+"Our industry is highly competitive, based on factors such as price, merchandise quality and selection,",0
+"location, convenience, distribution strategy, and customer service. We compete on a worldwide basis withglobal, national, and regional wholesalers and retailers, including supermarkets, supercenters, internetretailers, gasoline stations, hard discounters, department and specialty stores, and operators selling asingle category or narrow range of merchandise. Walmart, Target, Kroger, and Amazon are among oursignificant general merchandise retail competitors. We also compete with other warehouse clubs(primarily Walmart’s Sam’s Club and BJ’s Wholesale Club), and many of the major metropolitan areas inthe U.S. and certain of our Other International locations have multiple clubs.",0
+"Intellectual PropertyWe believe that, to varying degrees, our trademarks, trade names, copyrights, proprietary processes,",0
+"trade secrets, trade dress, domain names and similar intellectual property add significant value to ourbusiness and are important to our success. We have invested significantly in the development andprotection of our well-recognized brands, including the Costco Wholesale",0
+®trademarks and our private-,0
+"label brand, Kirkland Signature®. We believe that Kirkland Signature products are high quality, offered at",0
+"prices that are generally lower than national brands, and help lower costs, differentiate our merchandiseofferings, and generally earn higher margins. We expect to continue to increase the sales penetration ofour private-label items.",0
+"We rely on trademark and copyright laws, trade-secret protection, and confidentiality, license and other",0
+"agreements with our suppliers, employees and others to protect our intellectual property. The availabilityand duration of trademark registrations vary by country; however, trademarks are generally valid and maybe renewed indefinitely as long as they are in use and registrations are maintained.",0
+Available InformationOur U.S. website is www.costco.com. We make available through the Investor Relations section of that,0
+"site, free of charge, our Annual Reports on Form <NUM>-K, Quarterly Reports on Form <NUM>-Q, Current Reportson Form <NUM>-K, Proxy Statements and Forms <NUM> <NUM> and <NUM> and any amendments to those reports, as soon asreasonably practicable after filing such materials with or furnishing such documents to the Securities andExchange Commission (SEC). The information found on our website is not part of this or any other reportfiled with or furnished to the SEC. The SEC maintains a site that contains reports, proxy and informationstatements, and other information regarding issuers, such as the Company, that file electronically with theSEC at www.sec.gov.",0
+We have adopted a code of ethics for senior financial officers pursuant to Section <NUM> of the Sarbanes-,0
+"Oxley Act. Copies of the code are available free of charge by writing to Secretary, Costco WholesaleCorporation, <NUM> Lake Drive, Issaquah, WA <DATE><NUM> If the Company makes any amendments to this code(other than technical, administrative, or non-substantive amendments) or grants any waivers, includingimplicit waivers, to the CEO, chief financial officer or principal accounting officer and controller, we willdisclose (on our website or in a Form <NUM>-K report filed with the SEC) the nature of the amendment orwaiver, its effective date, and to whom it applies.",0
+<NUM>,0
+Information about our Executive Officers,0
+"The executive officers of Costco, their position, and ages are listed below. All executive officers have over",0
+<NUM> years of service with the Company.,0
+Name PositionExecutive,0
+Officer,0
+Since Age,0
+W. Craig Jelinek ........ President and Chief Executive Officer. Mr. Jelinek has,0
+"been President and Chief Executive Officer since<DATE> <DATE> and a director since <DATE> <DATE>. Hewas President and Chief Operating Officer from<DATE> <DATE> to <DATE> <DATE>. Prior to that he wasExecutive Vice President, Chief Operating Officer,Merchandising since <DATE>.<DATE> <NUM>",0
+Richard A. Galanti ....... Executive Vice President and Chief Financial Officer.,0
+Mr. Galanti has been a director since <DATE> <DATE>.<DATE> <NUM>,0
+"Jim C. Klauer .......... Executive Vice President, Chief Operating Officer,",0
+"Northern Division. Mr. Klauer was Senior VicePresident, Non Foods and E-commerce Merchandise,from <DATE> to <DATE> <DATE>.<DATE> <NUM>",0
+"Patrick J. Callans ....... Executive Vice President, Administration. Mr. Callans",0
+"was Senior Vice President, Human Resources andRisk Management, from <DATE> to <DATE> <DATE>.<DATE> <NUM>",0
+"Russ D. Miller .......... Executive Vice President, Chief Operating Officer,",0
+"Southern Division and Mexico. Mr. Miller was SeniorVice President, Western Canada Region, from <DATE> to<DATE> <DATE>.<DATE> <NUM>",0
+"Paul G. Moulton ........ Executive Vice President, Chief Information Officer.",0
+"Mr. Moulton was Executive Vice President, RealEstate Development, from <DATE> until <DATE> <DATE>.<DATE> <NUM>",0
+"James P. Murphy ....... Executive Vice President, Chief Operating Officer,",0
+"International. Mr. Murphy was Senior Vice President,International, from <DATE> to <DATE> <DATE>.<DATE> <NUM>",0
+"Joseph P. Portera ....... Executive Vice President, Chief Operating Officer,",0
+Eastern and Canadian Divisions. Mr. Portera has heldthese positions since <DATE> and has been the ChiefDiversity Officer since <DATE>.<DATE> <NUM>,0
+"Timothy L. Rose ........ Executive Vice President, Ancillary Businesses,",0
+"Manufacturing, and Business Centers. Mr. Rose wasSenior Vice President, Merchandising, Food andSundries and Private Label, from <DATE> to <DATE><DATE>.<DATE> <NUM>",0
+"Ron M. Vachris ......... Executive Vice President, Chief Operating Officer,",0
+"Merchandising. Mr. Vachris was Senior Vice President,Real Estate Development, from <DATE> <DATE> to <DATE><DATE>, and Senior Vice President, General Manager,Northwest Region, from <DATE> to <DATE> <DATE>.<DATE> <NUM>",0
+<NUM>,0
+Item <NUM>A—Risk Factors,0
+"The risks described below could materially and adversely affect our business, financial condition and",0
+"results of operations. We could also be affected by additional risks that apply to all companies operatingin the U.S. and globally, as well as other risks that are not presently known to us or that we currentlyconsider to be immaterial. These Risk Factors should be carefully reviewed in conjunction withManagement 's Discussion and Analysis of Financial Condition and Results of Operations in Item <NUM> and",0
+our consolidated financial statements and related notes in Item <NUM> of this Report.,0
+Business and Operating Risks,0
+"We are highly dependent on the financial performance of our U.S. and Canadian operations.Our financial and operational performance is highly dependent on our U.S. and Canadian operations,",0
+"which comprised <NUM>% and <NUM>% of net sales and operating income in <DATE>, respectively. Within the U.S.,we are highly dependent on our California operations, which comprised <NUM>% of U.S. net sales in <DATE>.Our California market, in general, has a larger percentage of higher volume warehouses as compared toour other domestic markets. Any substantial slowing or sustained decline in these operations couldmaterially adversely affect our business and financial results. <DATE> in financial performance of ourU.S. operations, particularly in California, and our Canadian operations could arise from, among otherthings: slow growth or declines in comparable warehouse sales (comparable sales); negative trends inoperating expenses, including increased labor, healthcare and energy costs; failing to meet targets forwarehouse openings; cannibalizing existing locations with new warehouses; shifts in sales mix towardlower gross margin products; changes or uncertainties in economic conditions in our markets, includinghigher levels of unemployment and depressed home values; and failing to consistently provide highquality and innovative new products.",0
+"We may be unsuccessful implementing our growth strategy, including expanding our business in",0
+"existing markets and new markets, and integrating acquisitions, which could have an adverseimpact on our business, financial condition and results of operations.",0
+"Our growth is dependent, in part, on our ability to acquire property and build or lease new warehouses",0
+"and depots. We compete with other retailers and businesses for suitable locations. Local land use andother regulations restricting the construction and operation of our warehouses and depots, as well as localcommunity actions opposed to the location of our warehouses or depots at specific sites and the adoptionof local laws restricting our operations and environmental regulations, may impact our ability to findsuitable locations and increase the cost of sites and of constructing, leasing and operating warehousesand depots. We also may have difficulty negotiating leases or purchase agreements on acceptable terms.In addition, certain jurisdictions have enacted or proposed laws and regulations that would prevent orrestrict the operation or expansion plans of certain large retailers and warehouse clubs, including us.Failure to effectively manage these and other similar factors may affect our ability to timely build or leaseand operate new warehouses and depots, which could have a material adverse effect on our futuregrowth and profitability.",0
+We seek to expand in existing markets to attain a greater overall market share. A new warehouse may,0
+"draw members away from our existing warehouses and adversely affect their comparable salesperformance, member traffic, and profitability.",0
+We intend to continue to open warehouses in new markets. Associated risks include difficulties in,0
+"attracting members due to a lack of familiarity with us, attracting members of other wholesale cluboperators, our lesser familiarity with local member preferences, and seasonal differences in the market.Entry into new markets may bring us into competition with new competitors or with existing competitorswith a large, established market presence. We cannot ensure that new warehouses and new e-commercewebsites will be profitable and, as a result, future profitability could be delayed or otherwise materiallyadversely affected.",0
+<NUM>,0
+"We have made and may continue to make investments and acquisitions to improve the speed, accuracy",0
+and efficiency of our supply chains. The effectiveness of these investments can be less predictable thanopening new locations and might not provide the anticipated benefits or desired rates of return.,0
+"Our failure to maintain membership growth, loyalty and brand recognition could adversely affect",0
+our results of operations.,0
+Membership loyalty and growth are essential to our business. The extent to which we achieve growth in,0
+"our membership base, increase the penetration of Executive members, and sustain high renewal ratesmaterially influences our profitability. Damage to our brands or reputation may negatively impactcomparable sales, diminish member trust, and reduce renewal rates and, accordingly, net sales andmembership fee revenue, negatively impacting our results of operations.",0
+"We sell many products under our Kirkland Signature brand. Maintaining consistent product quality,",0
+"competitive pricing, and availability of these products is essential to developing and maintaining memberloyalty. These products also generally carry higher margins than national brand products and represent agrowing portion of our overall sales. If the Kirkland Signature brand experiences a loss of memberacceptance or confidence, our sales and gross margin results could be adversely affected.",0
+"Disruptions in merchandise distribution or processing, packaging, manufacturing, and other",0
+facilities could adversely affect sales and member satisfaction.,0
+"We depend on the orderly operation of the merchandise receiving and distribution process, primarily",0
+"through our depots. We also rely upon processing, packaging, manufacturing and other facilities tosupport our business, which includes the production of certain private-label items. Although we believethat our operations are efficient, disruptions due to fires, tornadoes, hurricanes, earthquakes, pandemicsor other extreme weather conditions or catastrophic events, labor issues or other shipping problems mayresult in delays in the production and delivery of merchandise to our warehouses, which could adverselyaffect sales and the satisfaction of our members. Our e-commerce business depends heavily on third-party logistics providers and that business is negatively affected when these providers are unable toprovide services in a timely fashion.",0
+"We may not timely identify or effectively respond to consumer trends, which could negatively",0
+"affect our relationship with our members, the demand for our products and services, and ourmarket share.",0
+It is difficult to consistently and successfully predict the products and services that our members will,0
+"desire. Our success depends, in part, on our ability to identify and respond to trends in demographics andconsumer preferences. Failure to identify timely or effectively respond to changing consumer tastes,preferences (including those relating to sustainability of product sources and animal welfare) andspending patterns could negatively affect our relationship with our members, the demand for our productsand services, and our market share. If we are not successful at predicting our sales trends and adjustingour purchases accordingly, we may have excess inventory, which could result in additional markdowns, orwe may experience out-of-stock positions and delivery delays, which could result in higher costs, both ofwhich would reduce our operating performance. This could have an adverse effect on net sales, grossmargin and operating income.",0
+Availability and performance of our information technology (IT) systems are vital for our business,0
+"to operate efficiently. Failure to execute complex IT projects, and have these IT systems availableto our business will adversely impact our operations.",0
+IT systems play a crucial role in conducting our business on a daily basis. These systems are utilized to,0
+"process a very high volume of transactions, conduct payment transactions, track and value our inventoryand produce reports which are critical for making business decisions on a daily, weekly and periodicbasis. Failure or disruption of these IT systems could have an adverse impact on our ability to buyproducts from our suppliers, produce goods in our manufacturing plants, move the products in an efficientmanner to our warehouses and sell products to our members. We are undertaking large technology andIT transformation projects. The failure of these projects could adversely impact our business plans and",0
+<NUM>,0
+"potentially impair our day to day business operations. Given the high volume of transactions we process,",0
+"it is important that we build strong digital resiliency for our business-critical systems to prevent disruptionfrom events such as power outages, computer and telecommunications failures, computer viruses,internal or external security breaches, errors by employees, and catastrophic events such as fires,earthquakes tornadoes and hurricanes. Any debilitating failure of our critical IT systems, data centers andbackup systems would require significant investments in resources to restore IT services and may causeserious impairment in our business operations including loss of business services, increased cost ofmoving merchandise and failure to provide service to our members. We are currently making significantinvestments in enhancing our digital resiliency and failure or delay in execution of these projects coulddelay our ability to be resilient to disruptive events. Failure to deliver our IT transformation effortsefficiently and effectively could result in the loss of our competitive position and adversely impact ourfinancial condition and results of operations.",0
+We are required to maintain the privacy and security of personal and business information amidst,0
+"evolving threat landscapes and in compliance with emerging privacy and data protectionregulations globally. Failure to meet the requirements could damage our reputation with members,suppliers and employees, cause us to incur substantial additional costs, and become subject tolitigation.",0
+"Increased IT security threats and more sophisticated computer crime pose a risk to our systems,",0
+"networks, products and services. We rely upon IT systems and networks, some of which are managed bythird parties, in connection with a variety of business activities. Additionally, we collect, store and processsensitive information relating to our business, members, suppliers and employees. Operating these ITsystems and networks, and processing and maintaining this data, in a secure manner, is critical to ourbusiness operations and strategy. The increased use of remote work infrastructure due to the COVID-<NUM>pandemic has also increased the possible attack surfaces. Security threats designed to gain unauthorizedaccess to our systems, networks and data, are increasing in frequency and sophistication. Cybersecurityattacks may range from random attempts to coordinated and targeted attacks, including sophisticatedcomputer crimes and advanced persistent threats. These threats pose a risk to the security of oursystems and networks and the confidentiality, integrity, and availability of our data. It is possible that our ITsystems and networks, or those managed by third parties such as cloud providers, could havevulnerabilities, which could go unnoticed for a period of time. While our cybersecurity and complianceposture seeks to mitigate such risks, there can be no guarantee that the actions and controls we and ourthird-party service providers have implemented and are implementing, will be sufficient to protect oursystems, information or other property.",0
+"The potential impacts of a future material cybersecurity attack includes reputational damage, litigation,",0
+"government enforcement actions, penalties, disruption to systems, unauthorized release of confidential orotherwise protected information, corruption of data, diminution in the value of our investment in ITsystems and increased cybersecurity protection and remediation costs. This could adversely affect ourcompetitiveness, results of operations and financial condition and loss of member confidence. Further, theamount of insurance coverage we maintain may be inadequate to cover claims or liabilities relating to acybersecurity attack. In addition, data we collect, store and process is subject to a variety of U.S. andinternational laws and regulations, such as the European Union's General Data Protection Regulation,California Consumer Privacy Act, Health Insurance Portability and Accountability Act, China cybersecuritylaw and other emerging privacy and cybersecurity laws across the various states and around the globe,which may carry significant potential penalties for noncompliance.",0
+We are subject to payment-related risks.,0
+"We accept payments using a variety of methods, including select credit and debit cards, cash and checks,",0
+"co-brand cardholder rebates, executive member <NUM>% reward certificates, and our shop card. As we offernew payment options to our members, we may be subject to additional rules, regulations, compliancerequirements, and higher fraud losses. For certain payment methods, we pay interchange and otherrelated acceptance fees, along with additional transaction processing fees. We rely on third parties to",0
+<NUM>,0
+Net sales ........................... $<NUM> $<NUM> $<NUM> $<NUM> $<NUM>,1
+Membership fees ..................... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Gross margin(<NUM>)as a percentage of net sales <NUM> % <NUM> % <NUM> % <NUM> % <NUM> %,1
+expenses as a percentage of net sales .. <NUM> % <NUM> % <NUM> % <NUM> % <NUM> %,1
+Operating income ..................... $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM>,1
+Net income attributable to Costco ........ <NUM> <NUM> <NUM> <NUM> <NUM>,1
+attributable to Costco ................ <NUM> <NUM> <NUM> <NUM> <NUM>,1
+share ............................. <NUM> <NUM> <NUM> <NUM> <NUM>,1
+United States ........................ <NUM>% <NUM>% <NUM>% <NUM>% <NUM> %,1
+Canada ............................. <NUM>% <NUM>% <NUM>% <NUM>% ( <NUM> ) %,1
+Other International .................... <NUM>% <NUM>% <NUM> <NUM>% <NUM>% ( <NUM> ) %,1
+Total Company ....................... <NUM>% <NUM>% <NUM>% <NUM>% <NUM> %,1
+Net property and equipment ............. $ <NUM> $ <NUM> $ <NUM> $ <NUM> $ <NUM>,1
+Total assets ......................... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+"Long-term debt, excluding current portion .. <NUM> <NUM> <NUM> <NUM> <NUM>",1
+Costco stockholders’ equity ............. <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Beginning of year ................. <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Opened ......................... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Closed due to relocation ............ (<NUM>) (<NUM>) (<NUM>) (<NUM>) (<NUM>),1
+End of year .......................... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Total paid members (<NUM>'s)(<NUM>)........... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Total executive members (<NUM>'s)(<NUM>)....... <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Net sales .............................. $ <NUM> $ <NUM> $ <NUM>,1
+Membership fees ....................... <NUM> <NUM> <NUM>,1
+Total revenue ....................... <NUM> <NUM> <NUM>,1
+Merchandise costs ...................... <NUM> <NUM> <NUM>,1
+"Selling, general and administrative .......... <NUM> <NUM> <NUM>",1
+Preopening expenses .................... <NUM> <NUM> <NUM>,1
+Operating income ................... <NUM> <NUM> <NUM>,1
+Interest expense ........................ (<NUM>) (<NUM>) (<NUM>),1
+"Interest income and other, net ............. <NUM> <NUM> <NUM>",1
+INCOME BEFORE INCOME TAXES ........... <NUM> <NUM> <NUM>,1
+Provision for income taxes ................ <NUM> <NUM> <NUM>,1
+Net income including noncontrolling interests . <NUM> <NUM> <NUM>,1
+interests ............................ (<NUM>) (<NUM>) (<NUM>),1
+NET INCOME ATTRIBUTABLE TO COSTCO .... $ <NUM> $ <NUM> $ <NUM>,1
+Basic ................................. $ <NUM> $ <NUM> $ <NUM>,1
+Diluted ............................... $ <NUM> $ <NUM> $ <NUM>,1
+Basic ............................. <NUM> <NUM> <NUM>,1
+Diluted ............................ <NUM> <NUM> <NUM>,1
+The accompanying notes are an integral part of these consolidated financial statements.,0
+<NUM>,0
+COSTCO WHOLESALE CORPORATION,0
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME,0
+(amounts in millions),0
+<NUM> Weeks Ended <NUM> Weeks Ended <NUM> Weeks Ended,0
+<DATE> <NUM>,0
+<DATE><DATE> <NUM>,0
+<DATE><DATE> <NUM>,0
+<DATE>,0
+NET INCOME INCLUDING NONCONTROLLING,0
+INTERESTS .............................. $ <NUM> $ <NUM> $ <NUM>,1
+"other, net ............................. <NUM> (<NUM>) (<NUM>)",1
+Comprehensive income ....................... <NUM> <NUM> <NUM>,1
+noncontrolling interests .................. <NUM> <NUM> <NUM>,1
+The accompanying notes are an integral part of these consolidated financial statements.,0
+<NUM>,0
+COSTCO WHOLESALE CORPORATION,0
+CONSOLIDATED BALANCE SHEETS,0
+"(amounts in millions, except par value and share data)",0
+<DATE> <NUM>,0
+<DATE><DATE> <NUM>,0
+<DATE>,0
+ASSETS,0
+CURRENT ASSETS,0
+Cash and cash equivalents ....................................... $ <NUM> $ <NUM>,1
+Short-term investments .......................................... <NUM> <NUM>,1
+"Receivables, net ............................................... <NUM> <NUM>",1
+Merchandise inventories ......................................... <NUM> <NUM>,1
+Other current assets ............................................ <NUM> <NUM>,1
+Total current assets ......................................... <NUM> <NUM>,1
+"Property and equipment, net ...................................... <NUM> <NUM>",1
+Operating lease right-of-use assets ................................ <NUM> —,1
+Other long-term assets .......................................... <NUM> <NUM>,1
+TOTAL ASSETS ........................................... $ <NUM> $ <NUM>,1
+Accounts payable .............................................. $ <NUM> $ <NUM>,1
+Accrued salaries and benefits ..................................... <NUM> <NUM>,1
+Accrued member rewards ........................................ <NUM> <NUM>,1
+Deferred membership fees ....................................... <NUM> <NUM>,1
+Current portion of long-term debt .................................. <NUM> <NUM>,1
+Other current liabilities ........................................... <NUM> <NUM>,1
+Total current liabilities ........................................ <NUM> <NUM>,1
+"Long-term debt, excluding current portion ............................ <NUM> <NUM>",1
+Long-term operating lease liabilities ................................ <NUM> —,1
+Other long-term liabilities ......................................... <NUM> <NUM>,1
+TOTAL LIABILITIES ........................................ <NUM> <NUM>,1
+"<NUM>,<NUM> and <NUM>,<NUM> shares issued and outstanding ........... <NUM>",1
+Additional paid-in capital ......................................... <NUM> <NUM>,1
+Accumulated other comprehensive loss ............................. (<NUM>) (<NUM>),1
+Retained earnings .............................................. <NUM> <NUM>,1
+Total Costco stockholders’ equity ............................... <NUM> <NUM>,1
+Noncontrolling interests .......................................... <NUM> <NUM>,1
+Total equity ................................................ <NUM> <NUM>,1
+TOTAL LIABILITIES AND EQUITY ............................ $ <NUM> $ <NUM>,1
+Officer        of      Alphabet        Inc.),0
+Power  of      Attorney,0
+"KNOW ALL PeRSONS BY tHeSe PReSeNtS, that each person whose signature appears below constitutes and appoints Larry",0
+"Page and Ruth Porat, jointly and severally, his or her attorney-in-fact, with the power of substitution, for him or her in any and",0
+"all capacities, to sign any amendments to this Annual Report on Form <NUM>-K and to file the same, with exhibits thereto and other",0
+"documents in connection therewith, with the Securities and exchange Commission, hereby ratifying and confirming all that each",0
+"of said attorneys-in-fact, or his or her substitute or substitutes, may do or cause to be done by virtue hereof.",0
+"Pursuant to the requirements of the Securities exchange Act of <DATE>, this Annual Report on Form <NUM>-K has been signed below",0
+by the following persons on behalf of the registrant and in the capacities and on the dates indicated.,0
+Signature Title Date,0
+"/s/ LARRY PAGe Chief Executive Officer, Co-Founder and Director (Principal Executive Officer of Alphabet Inc.) <DATE> <NUM> <DATE>",0
+Larry  Page,0
+/s/ RUtH PORAt Senior Vice President and Chief Financial Officer (Principal Financial and Accounting Officer,0
+of Alphabet Inc.)<DATE> <NUM> <DATE>Ruth Porat,0
+/s/ eRIC e. SCHmIDt Executive Chairman <DATE> <NUM> <DATE>Eric   E.      Schmidt,0
+"/s/ SeRGeY BRIN President, Co-Founder and Director <DATE> <NUM> <DATE>Sergey     Brin",0
+/s/ L. JOHN DOeRR Director <DATE> <NUM> <DATE>L. John    Doerr,0
+/s/ DIANe B. GReeNe Director <DATE> <NUM> <DATE>Diane    B.      Greene,0
+/s/ JOHN L. HeNNeSSY Director <DATE> <NUM> <DATE>John    L.      Hennessy,0
+/s/ ANN mAtHeR Director <DATE> <NUM> <DATE>Ann   Mather,0
+/s/ ALAN R. mULALLYDirector <DATE> <NUM> <DATE>,0
+Alan   R.      Mulally,0
+/s/ PAUL S. OteLLINIDirector <DATE> <NUM> <DATE>Paul     S.      Otellini,0
+/s/ K. RAm SHRIRAm Director <DATE> <NUM> <DATE>K.        Ram     Shriram,0
+/s/ SHIRLeY m. tILGHmAN Director <DATE> <NUM> <DATE>Shirley      M.      Tilghman,0
+<NUM> ALPHABET INC. | Annual ReportSignatures and Power of Attorney,0
+Signatures,0
+"Pursuant to the requirements of Section <NUM> or <NUM>(d) of the Securities exchange Act of <DATE>, the registrant has duly caused this",0
+"Annual Report on Form <NUM>-K to be signed on its behalf by the undersigned, thereunto duly authorized.",0
+Date: <DATE> <NUM> <DATE>,0
+GOOGLE INC.,0
+By: /s/ SUNDAR PICHAI,0
+Sundar Pichai,0
+Chief  Executive       Officer,0
+(Principal     Executive,0
+Officer        of      Google  Inc.),0
+Power  of      Attorney,0
+"KNOW ALL PeRSONS BY tHeSe PReSeNtS, that each person whose signature appears below constitutes and appoints Sundar",0
+"Pichai and Ruth Porat, jointly and severally, his or her attorney-in-fact, with the power of substitution, for him or her in any and",0
+"all capacities, to sign any amendments to this Annual Report on Form <NUM>-K and to file the same, with exhibits thereto and other",0
+"documents in connection therewith, with the Securities and exchange Commission, hereby ratifying and confirming all that each",0
+"of said attorneys-in-fact, or his or her substitute or substitutes, may do or cause to be done by virtue hereof.",0
+"Pursuant to the requirements of the Securities exchange Act of <DATE>, this Annual Report on Form <NUM>-K has been signed below",0
+by the following persons on behalf of the registrant and in the capacities and on the dates indicated.,0
+Signature Title Date,0
+/s/ SUNDAR PICHAI Chief Executive Officer (Principal Executive Officer of Google Inc.) <DATE> <NUM> <DATE>,0
+Sundar Pichai,0
+/s/ RUtH PORAt Senior Vice President and Chief Financial Officer (Principal Financial and Accounting Officer,0
+of Google Inc.)<DATE> <NUM> <DATE>,0
+Ruth   Porat,0
+/s/ eRIC e. SCHmIDt Executive Chairman <DATE> <NUM> <DATE>Eric   E.      Schmidt,0
+/s/ LARRY PAGe Co-Founder and Director <DATE> <NUM> <DATE>Larry  Page,0
+/s/ SeRGeY BRIN Co-Founder and Director <DATE> <NUM> <DATE>Sergey        Brin,0
+/s/ L. JOHN DOeRR Director <DATE> <NUM> <DATE>L. John    Doerr,0
+/s/ DIANe B. GReeNe Director <DATE> <NUM> <DATE>Diane    B.      Greene,0
+/s/ JOHN L. HeNNeSSY Director <DATE> <NUM> <DATE>John    L.      Hennessy,0
+/s/ ANN mAtHeR Director <DATE> <NUM> <DATE>Ann   Mather,0
+/s/ ALAN R. mULALLYDirector <DATE> <NUM> <DATE>Alan      R.      Mulally,0
+/s/ PAUL S. OteLLINIDirector <DATE> <NUM> <DATE>Paul     S.      Otellini,0
+/s/ K. RAm SHRIRAm Director <DATE> <NUM> <DATE>K.        Ram     Shriram,0
+/s/ SHIRLeY m. tILGHmAN Director <DATE> <NUM> <DATE>Shirley      M.      Tilghman,0
+<NUM>,0
+ALPHABET INC. | Annual Reportexhibit Index,0
+Exhibit Index,0
+Exhibit,0
+Number DescriptionIncorporated by reference herein,0
+Form Date,0
+"<NUM> Agreement and Plan of merger, dated <DATE> <NUM> <DATE>, by and",0
+"among Google Inc., Alphabet Inc. and maple technologies Inc. Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>) and Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>) <DATE> <NUM> <DATE>",0
+"<NUM> Amended and Restated Certificate of Incorporation of Alphabet Inc., dated <DATE> <NUM> <DATE>Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>) <DATE> <NUM> <DATE>,0
+"<NUM> Amended and Restated Bylaws of Alphabet Inc., dated <DATE> <NUM> <DATE>Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>) <DATE> <NUM> <DATE>,0
+<NUM> Fourth Amended and Restated Certificate of Incorporation of Google Inc.Quarterly Report on Form <NUM>-Q,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> Amended and Restated Bylaws of Google Inc. Quarterly Report on Form <NUM>-Q,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM>,0
+"Certificate of merger, dated <DATE> <NUM> <DATE> Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> Specimen Class A Common Stock certificate Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> Specimen Class C Capital Stock certificate Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> Indenture, dated as of may <NUM> <DATE> between Google Inc. and the",0
+"Bank of New York mellon trust Company, N.A., as trusteeCurrent Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>)may <NUM> <DATE>,0
+<NUM> Form of <NUM>% Note due <DATE> Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)may <NUM> <DATE>,0
+<NUM> Form of <NUM>% Note due <DATE> Current Report on Form <NUM>-K(File No. <NUM>-<DATE><NUM>) may <NUM> <DATE>,0
+<NUM> Form of <NUM>% Note due <DATE> Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> Alphabet Inc. Deferred Compensation Plan Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> terms of Revised Stipulation of Compromise and Settlement,0
+of In Re: Google Inc. Class C Shareholder Litigation  (Consol. C.A.,0
+No. <DATE>-CS)Registration Statement on Form <NUM>-A (File No. <NUM>-<DATE><NUM>) march <NUM> <DATE>,0
+"<NUM> transfer Restriction Agreement, dated <DATE> <NUM> <DATE>, between",0
+Alphabet Inc. and Larry Page and certain of his affiliates Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> transfer Restriction Agreement, dated <DATE> <NUM> <DATE>, between",0
+Alphabet Inc. and Sergey Brin and certain of his affiliates Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> transfer Restriction Agreement, dated <DATE> <NUM> <DATE>, between",0
+Alphabet Inc. and eric e. Schmidt and certain of its affiliatesCurrent Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> Class C Undertaking, dated <DATE> <NUM> <DATE>, executed by Alphabet Inc.Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> Form of Indemnification Agreement entered into between Alphabet Inc., its affiliates and its directors and officers Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> ◆,0
+"Offer Letter, dated march <NUM> <DATE>, between Ruth Porat and",0
+Google Inc.Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)march <NUM> <DATE>,0
+"<NUM> ◆Compensation Plan Agreement, dated <DATE> <NUM> <DATE>, between Google Inc. and Alphabet Inc.Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>) and Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>",0
+"<NUM> ◆Director Arrangements Agreement, dated <DATE> <NUM> <DATE>, between Google Inc. and Alphabet Inc.Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>) and Current Report on Form <NUM>-K (File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>",0
+"<NUM> ◆Google Restricted Stock Unit Agreement, dated <DATE> <NUM> <DATE>, between Google Inc. and Omid KordestaniQuarterly Report on Form <NUM>-Q",0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+"<NUM> ◆Google Inc. <DATE> Stock Plan, as amended Current Report on Form <NUM>-K",0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM>.<NUM> ◆Google Inc. <DATE> Stock Plan-Form of Stock Option Agreement Annual Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>),0
+march <NUM> <DATE>,0
+<NUM>.<NUM> ◆Google Inc. <DATE> Stock Plan-Form of Restricted Stock Unit AgreementAnnual Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>) march <NUM> <DATE>,0
+<NUM> ALPHABET INC. | Annual Reportexhibit Index,0
+Exhibit,0
+Number DescriptionIncorporated by reference herein,0
+Form Date,0
+<NUM>.<NUM> ◆Google Inc. <DATE> Stock Plan-Amendment to Stock Option AgreementsRegistration Statement on Form S-<NUM> (File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> ◆Alphabet Inc. <DATE> Stock Plan Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><DATE>)<DATE> <NUM> <DATE>,0
+<NUM>.<NUM> ◆*Alphabet Inc. <DATE> Stock Plan - Form of Alphabet Restricted Stock Unit Agreement,0
+<NUM> ◆,0
+"motorola mobility Holdings, Inc. <DATE> Incentive Compensation Plan Registration Statement on Form S-<NUM> (File No. <NUM>-<DATE><NUM>) may <NUM> <DATE>",0
+"<NUM> ◆Admob, Inc. <DATE> Stock Plan and UK Sub-Plan of the Admob, Inc.",0
+<DATE> Stock PlanRegistration Statement on Form S-<NUM> filed (File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> ◆Click Holding Corp. <DATE> Stock Incentive Plan Registration Statement on Form S-<NUM> (File No. <NUM>-<DATE><NUM>),0
+march <NUM> <DATE>,0
+<NUM> *Computation of earnings to Fixed Charge Ratios,0
+<NUM> Code of Conduct of Alphabet Inc. dated <DATE> <NUM> <DATE> Current Report on Form <NUM>-K,0
+(File No. <NUM>-<DATE><NUM>)<DATE> <NUM> <DATE>,0
+<NUM> *Subsidiaries of the Registrants,0
+"<NUM> *Consent of ernst & Young LLP, Independent Registered Public",0
+Accounting Firm,0
+<NUM> *Power of Attorney (incorporated by reference to the signature page of this Annual Report on Form <NUM>-K),0
+<NUM> *,0
+Certification of Chief executive Officer of Alphabet Inc. pursuant to,0
+"exchange Act Rules <NUM>a-<NUM>(a) and <NUM>d-<NUM>(a), as adopted pursuant",0
+to Section <NUM> of the Sarbanes-Oxley Act of <DATE>,0
+<NUM> *Certification of Chief Financial Officer of Alphabet Inc. pursuant to,0
+"exchange Act Rules <NUM>a-<NUM>(a) and <NUM>d-<NUM>(a), as adopted pursuant",0
+to Section <NUM> of the Sarbanes-Oxley Act of <DATE>,0
+<NUM> *Certification of Chief executive Officer of Google Inc. pursuant to,0
+"exchange Act Rules <NUM>a-<NUM>(a) and <NUM>d-<NUM>(a), as adopted pursuant",0
+to Section <NUM> of the Sarbanes-Oxley Act of <DATE>,0
+<NUM> *Certification of Chief Financial Officer of Google Inc. pursuant to,0
+"exchange Act Rules <NUM>a-<NUM>(a) and <NUM>d-<NUM>(a), as adopted pursuant",0
+to Section <NUM> of the Sarbanes-Oxley Act of <DATE>,0
+<NUM> ‡Certifications of Chief executive Officer and Chief Financial Officer,0
+"of Alphabet Inc. pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of <DATE>",0
+<NUM> ‡,0
+Certifications of Chief executive Officer and Chief Financial Officer,0
+"of Google Inc. pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of <DATE>",0
+<NUM>INS XBRL Instance Document,0
+<NUM>SCH,0
+XBRL taxonomy extension Schema Document,0
+<NUM>CAL XBRL taxonomy extension Calculation Linkbase Document,0
+<NUM>DeF XBRL taxonomy extension Definition Linkbase Document,0
+<NUM>LAB XBRL taxonomy extension Label Linkbase Document,0
+<NUM>PRe XBRL taxonomy extension Presentation Linkbase Document,0
+"◆      Indicates management compensatory plan, contract, or arrangement.",0
+* Filed herewith.,0
+‡ Furnished herewith.,0
+<NUM>,0
+ALPHABET INC. | Annual ReportEXHIBIT   <NUM>    CERTIFICATION  OF      CHIEF   EXECUTIVE       OFFICER PURSUANT        TO      EXCHANGE        ACT,0
+"RULES  <NUM>a-<NUM>(a)       AND     <NUM>d-<NUM>(a),      AS      ADOPTED PURSUANT        TO      SECTION <NUM>     OF",0
+THE    SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Larry Page, certify that:",0
+<NUM> I have reviewed this Annual Report on Form <NUM>-K of Alphabet Inc.;,0
+"<NUM> Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material",0
+"fact necessary to make the statements made, in light of the circumstances under which such statements were made, not",0
+misleading with respect to the period covered by this report;,0
+"<NUM> Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in",0
+"all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods",0
+presented in this report;,0
+<NUM> the registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and,0
+procedures (as defined in exchange Act Rules <NUM>a-<NUM>(e) and <NUM>d-<NUM>(e)) and internal control over financial reporting (as,0
+defined in exchange Act Rules <NUM>a-<NUM>(f) and <NUM>d-<NUM>(f)) for the registrant and have:,0
+"(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed",0
+"under our supervision, to ensure that material information relating to the registrant, including its consolidated",0
+"subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;",0
+"(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to",0
+"be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting",0
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting,0
+principles;,0
+(c) evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our,0
+"conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and",0
+(d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the,0
+registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has,0
+"materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting;",0
+and,0
+"<NUM> the registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over",0
+"financial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):",0
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial,0
+"reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and",0
+report financial information; and,0
+"(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the",0
+registrant’s internal control over financial reporting.,0
+Date: <DATE> <NUM> <DATE>,0
+/s/ LARRY PAGe,0
+Larry  Page,0
+Chief  Executive       Officer,0
+(Principal     Executive       Officer),0
+<NUM> ALPHABET INC. | Annual ReportEXHIBIT       <NUM>    CERTIFICATION  OF      CHIEF   FINANCIAL       OFFICER PURSUANT        TO      EXCHANGE        ACT,0
+"RULES  <NUM>a-<NUM>(a)       AND     <NUM>d-<NUM>(a),      AS      ADOPTED PURSUANT        TO      SECTION <NUM>     OF",0
+THE    SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Ruth Porat, certify that:",0
+<NUM> I have reviewed this Annual Report on Form <NUM>-K of Alphabet Inc.;,0
+"<NUM> Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material",0
+"fact necessary to make the statements made, in light of the circumstances under which such statements were made, not",0
+misleading with respect to the period covered by this report;,0
+"<NUM> Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in",0
+"all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods",0
+presented in this report;,0
+<NUM> the registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and,0
+procedures (as defined in exchange Act Rules <NUM>a-<NUM>(e) and <NUM>d-<NUM>(e)) and internal control over financial reporting (as,0
+defined in exchange Act Rules <NUM>a-<NUM>(f) and <NUM>d-<NUM>(f)) for the registrant and have:,0
+"(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed",0
+"under our supervision, to ensure that material information relating to the registrant, including its consolidated",0
+"subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;",0
+"(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to",0
+"be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting",0
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting,0
+principles;,0
+(c) evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our,0
+"conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and",0
+(d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the,0
+registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has,0
+"materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting;",0
+and,0
+"<NUM> the registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over",0
+"financial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):",0
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial,0
+"reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and",0
+report financial information; and,0
+"(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the",0
+registrant’s internal control over financial reporting.,0
+Date: <DATE> <NUM> <DATE>,0
+/s/ RUtH PORAt,0
+Ruth   Porat,0
+Senior Vice    President       and,0
+Chief  Financial       Officer,0
+(Principal     Financial       Officer),0
+<NUM>,0
+ALPHABET INC. | Annual ReportEXHIBIT   <NUM>    CERTIFICATION  OF      CHIEF   EXECUTIVE       OFFICER PURSUANT        TO      EXCHANGE        ACT,0
+"RULES  <NUM>a-<NUM>(a)       AND     <NUM>d-<NUM>(a),      AS      ADOPTED PURSUANT        TO      SECTION <NUM>     OF",0
+THE    SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Sundar Pichai, certify that:",0
+<NUM> I have reviewed this Annual Report on Form <NUM>-K of Google Inc.;,0
+"<NUM> Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material",0
+"fact necessary to make the statements made, in light of the circumstances under which such statements were made, not",0
+misleading with respect to the period covered by this report;,0
+"<NUM> Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in",0
+"all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods",0
+presented in this report;,0
+<NUM> the registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and,0
+procedures (as defined in exchange Act Rules <NUM>a-<NUM>(e) and <NUM>d-<NUM>(e)) and internal control over financial reporting (as,0
+defined in exchange Act Rules <NUM>a-<NUM>(f) and <NUM>d-<NUM>(f)) for the registrant and have:,0
+"(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed",0
+"under our supervision, to ensure that material information relating to the registrant, including its consolidated",0
+"subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;",0
+"(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to",0
+"be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting",0
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting,0
+principles;,0
+(c) evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our,0
+"conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and",0
+(d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the,0
+registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has,0
+"materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting;",0
+and,0
+"<NUM> the registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over",0
+"financial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):",0
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial,0
+"reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and",0
+report financial information; and,0
+"(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the",0
+registrant’s internal control over financial reporting.,0
+Date: <DATE> <NUM> <DATE>,0
+/s/ SUNDAR PICHAI,0
+Sundar Pichai,0
+Chief  Executive       Officer,0
+(Principal     Executive       Officer),0
+<NUM> ALPHABET INC. | Annual ReportEXHIBIT       <NUM>    CERTIFICATION  OF      CHIEF   FINANCIAL       OFFICER PURSUANT        TO      EXCHANGE        ACT,0
+"RULES  <NUM>a-<NUM>(a)       AND     <NUM>d-<NUM>(a),      AS      ADOPTED PURSUANT        TO      SECTION <NUM>     OF",0
+THE    SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Ruth Porat, certify that:",0
+<NUM> I have reviewed this Annual Report on Form <NUM>-K of Google Inc.;,0
+"<NUM> Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material",0
+"fact necessary to make the statements made, in light of the circumstances under which such statements were made, not",0
+misleading with respect to the period covered by this report;,0
+"<NUM> Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in",0
+"all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods",0
+presented in this report;,0
+<NUM> the registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and,0
+procedures (as defined in exchange Act Rules <NUM>a-<NUM>(e) and <NUM>d-<NUM>(e)) and internal control over financial reporting (as,0
+defined in exchange Act Rules <NUM>a-<NUM>(f) and <NUM>d-<NUM>(f)) for the registrant and have:,0
+"(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed",0
+"under our supervision, to ensure that material information relating to the registrant, including its consolidated",0
+"subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;",0
+"(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to",0
+"be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting",0
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting,0
+principles;,0
+(c) evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our,0
+"conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and",0
+(d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the,0
+registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has,0
+"materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting;",0
+and,0
+"<NUM> the registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over",0
+"financial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):",0
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial,0
+"reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and",0
+report financial information; and,0
+"(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the",0
+registrant’s internal control over financial reporting.,0
+Date: <DATE> <NUM> <DATE>,0
+/s/ RUtH PORAt,0
+Ruth   Porat,0
+Senior Vice    President       and,0
+Chief  Financial       Officer,0
+(Principal     Financial       Officer),0
+<NUM>,0
+ALPHABET INC. | Annual ReportEXHIBIT   <NUM>    CERTIFICATIONS OF      CHIEF   EXECUTIVE       OFFICER AND     CHIEF   FINANCIAL       OFFICER,0
+"PURSUANT       TO      <NUM>      U.S.C.  SECTION <DATE>,   AS      ADOPTED PURSUANT        TO      SECTION <NUM>",0
+OF     THE     SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Larry Page, certify pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of <DATE>, that",0
+"the Annual Report on Form <NUM>-K of Alphabet Inc. for the fiscal year ended <DATE> <NUM> <DATE>, fully complies with the requirements",0
+of Section <NUM>(a) or <NUM>(d) of the Securities exchange Act of <DATE> and that information contained in such Annual Report on Form,0
+"<NUM>-K fairly presents, in all material respects, the financial condition and results of operations of Alphabet Inc.",0
+Date: <DATE> <NUM> <DATE>,0
+By: /s/ LARRY PAGe,0
+Name: Larry    Page,0
+title: Chief   Executive       Officer,0
+(Principal     Executive       Officer),0
+"I, Ruth Porat, certify pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of <DATE>,",0
+"that the Annual Report on Form <NUM>-K of Alphabet Inc. for the fiscal year ended <DATE> <NUM> <DATE>, fully complies with the",0
+requirements of Section <NUM>(a) or <NUM>(d) of the Securities exchange Act of <DATE> and that information contained in such Annual,0
+"Report on Form <NUM>-K fairly presents, in all material respects, the financial condition and results of operations of Alphabet Inc.Date: <DATE> <NUM> <DATE>",0
+By: /s/ RUtH PORAt,0
+Name: Ruth     Porat,0
+title: Senior  Vice    President       and,0
+Chief  Financial       Officer,0
+(Principal     Financial       Officer),0
+The foregoing certifications are not deemed filed with the Securities and Exchange Commission for purposes of Section <NUM> of the Securities,0
+"Exchange Act of <DATE>, as amended (Exchange Act), and are not to be incorporated by reference into any filing of Alphabet Inc. under",0
+"the Securities Act of <DATE>, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general",0
+incorporation language in such filing.,0
+<NUM> ALPHABET INC. | Annual ReportEXHIBIT       <NUM>    CERTIFICATIONS OF      CHIEF   EXECUTIVE       OFFICER AND     CHIEF   FINANCIAL       OFFICER,0
+"PURSUANT       TO      <NUM>      U.S.C.  SECTION <DATE>,   AS      ADOPTED PURSUANT        TO      SECTION <NUM>",0
+OF     THE     SARBANES-OXLEY  ACT     OF      <DATE>,0
+"I, Sundar Pichai, certify pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of",0
+"<DATE>, that the Annual Report on Form <NUM>-K of Google Inc. for the fiscal year ended <DATE> <NUM> <DATE>, fully complies with the",0
+requirements of Section <NUM>(a) or <NUM>(d) of the Securities exchange Act of <DATE> and that information contained in such Annual,0
+"Report on Form <NUM>-K fairly presents, in all material respects, the financial condition and results of operations of Google Inc.",0
+Date: <DATE> <NUM> <DATE>,0
+By: /s/ SUNDAR PICHAI,0
+Name: Sundar   Pichai,0
+title: Chief   Executive       Officer,0
+(Principal     Executive       Officer),0
+"I, Ruth Porat, certify pursuant to <NUM> U.S.C. Section <DATE>, as adopted pursuant to Section <NUM> of the Sarbanes-Oxley Act of <DATE>, that",0
+"the Annual Report on Form <NUM>-K of Google Inc. for the fiscal year ended <DATE> <NUM> <DATE>, fully complies with the requirements",0
+of Section <NUM>(a) or <NUM>(d) of the Securities exchange Act of <DATE> and that information contained in such Annual Report on Form,0
+"<NUM>-K fairly presents, in all material respects, the financial condition and results of operations of Google Inc.Date: <DATE> <NUM> <DATE>",0
+By: /s/ RUtH PORAt,0
+Name: Ruth     Porat,0
+title: Senior  Vice    President       and,0
+Chief  Financial       Officer,0
+(Principal     Financial       Officer),0
+The foregoing certifications are not deemed filed with the Securities and Exchange Commission for purposes of Section <NUM> of the Securities,0
+"Exchange Act of <DATE>, as amended (Exchange Act), and are not to be incorporated by reference into any filing of Google Inc. under",0
+"the Securities Act of <DATE>, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general",0
+incorporation language in such filing.,0
+Directors,0
+Larry Page,0
+"Chief Executiv e O fficer, Alphabet Inc.,",0
+and Co-Founder,0
+Ser,0
+gey Brin,0
+"President, Alphabet Inc., and Co-FounderEric E. Schmidt",0
+Exe,0
+"cutive Chairman of the Board of Directors,",0
+Alpha,0
+bet Inc.,0
+Dia,0
+ne B. Greene,0
+"Senior Vice President, Google Inc.For",0
+mer Chief Executiv e O fficer,0
+"and President, VMware, Inc.",0
+L. John Doerr,0
+General PartnerKleiner Perkins Caufield & Byers,0
+Joh,0
+n L. Hennessy,0
+Lead Independent DirectorPre,0
+sident,0
+Stan ford University,0
+Ann,0
+Mather,0
+For,0
+mer Chief Financial Officer,0
+Pixar,0
+Alan R. Mulally,0
+Former Chief Execut ive O fficer and President,0
+Ford Motor Company,0
+Pau,0
+l S. Otellini,0
+Former Chief  E xecutive Officer and President,0
+Intel Corporati on,0
+K,0
+. Ram Shriram,0
+Managing Partner,0
+Sherpa l,0
+o Ventures,0
+Shi,0
+rley M. Tilghman,0
+Former PresidentPrinceton Un ive,0
+rsity,0
+Executive Officers,0
+Larry Page,0
+"Chief Executiv e O fficer, Alphabet Inc.,",0
+and Co-Founder,0
+Ser,0
+gey Brin,0
+"President, Alphabet Inc., and Co-FounderEric E. Schmidt",0
+Exe,0
+"cutive Chairman of the Board of Directors,",0
+Alpha,0
+bet Inc.,0
+Dav,0
+id C. Drummond,0
+"Senior Vice President, Corporate Development, Chief Legal Officer, and Secretary, Alphabet Inc.",0
+Sundar Pichai,0
+Chi,0
+"ef Executiv e O fficer, Google Inc.",0
+Ruth M. Porat Senior Vice President and Chief Financial,0
+Offic,0
+"er, Alphabet Inc. and Google Inc.Directors and Officersas of <DATE> <DATE>Stockho lder Information",0
+For fu,0
+"rther informati on  about Alphabet Inc.,",0
+contact:,0
+Investor Relations,0
+Alphabet Inc.<DATE> Amp hitheatre Parkway,0
+Mou n,0
+"tain View, California <DATE><NUM>",0
+inv,0
+estor-relations@abc.xyz,0
+You m,0
+ay also reach us by visiting the,0
+inve,0
+stor relations portion of our website,0
+at: h,0
+ttps://abc.xyz/investor/,0
+Alp,0
+habet’s stock trades on the NASDAQ,0
+Global Select <DATE>.,0
+Tran,0
+sfer Agent and Registrar,0
+"Computershare Trust Company, N.A.",0
+P.O. Box <DATE><NUM>College Stat ion,0
+", Texas <DATE><NUM>–<DATE>",0
+"Overnight correspondence  should be sent to:Computershare Trust Company, N.A.<NUM> Quality Circle, Suite <NUM>College Stat ion",0
+", Texas <DATE><NUM>",0
+(<NUM>) <NUM>–<DATE>(<NUM>) <NUM>–<DATE>http://www.computershare.com,0
+Independent Registered Public Accountin g Fi,0
+rm,0
+Ernst & Young LLP,0
+Alphabet  <DATE> Annual Report,0
+ZA<DATE>,0
+Revenues $<NUM> $<NUM> $<NUM>,1
+Cost of revenues <NUM> <NUM> <NUM>,1
+Research and development <NUM> <NUM> <NUM>,1
+Sales and marketing <NUM> <NUM> <NUM>,1
+General and administrative <NUM> <NUM> <NUM>,1
+Total costs and expenses <NUM> <NUM> <NUM>,1
+Income from operations <NUM> <NUM> <NUM>,1
+"Other income (expense), net <NUM> <NUM> <NUM>",1
+Income from continuing operations before income taxes <NUM> <NUM> <NUM>,1
+Provision for income taxes <NUM> <NUM> <NUM>,1
+Net income from continuing operations $<NUM> $<NUM> $<NUM>,1
+Net income (loss) from discontinued operations (<NUM> ) <NUM> <NUM>,1
+Net income $<NUM> $<NUM> $<NUM>,1
+Net income available to all stockholders $<NUM> $<NUM> $<NUM>,1
+Net income $<NUM> $<NUM> $<NUM>,1
+Change in foreign currency translation adjustment <NUM> (<NUM> ) (<NUM> ),1
+Change in net unrealized gains (losses) (<NUM> ) <NUM> (<NUM> ),1
+Less: reclassification adjustment for net (gains) losses included in net income (<NUM> ) (<NUM> ) <NUM>,1
+Net change (net of tax effect of $<NUM> $<NUM> and $<NUM>) (<NUM> ) <NUM> (<NUM> ),1
+Change in net unrealized gains <NUM> <NUM> <NUM>,1
+Less: reclassification adjustment for net gains included in net income (<NUM>) (<NUM> ) (<NUM> ),1
+Net change (net of tax effect of $<NUM> $<NUM> and $<NUM>) <NUM> <NUM> (<NUM> ),1
+Other comprehensive loss (<NUM> ) (<NUM>) (<NUM> ),1
+Comprehensive income $<NUM> $<NUM> $<NUM>,1
+Balance as of <DATE> <NUM> <DATE> <NUM> $<NUM> $<NUM> $<NUM> $<NUM>,1
+Common stock issued <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Stock-based compensation expense  <NUM> <NUM> <NUM> <NUM>,1
+Stock-based compensation tax benefits  <NUM> <NUM> <NUM> <NUM>,1
+stock units  (<NUM> ) <NUM> <NUM> (<NUM> ),1
+Net income  <NUM> <NUM> <NUM> <NUM>,1
+Other comprehensive loss  <NUM> (<NUM> ) <NUM> (<NUM> ),1
+Balance as of <DATE> <NUM> <DATE> <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Common and capital stock issued <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Stock-based compensation expense  <NUM> <NUM> <NUM> <NUM>,1
+Stock-based compensation tax benefits  <NUM> <NUM> <NUM> <NUM>,1
+Tax withholding related to vesting of restricted stock units  (<NUM> ) <NUM> <NUM> (<NUM> ),1
+Net income  <NUM> <NUM> <NUM> <NUM>,1
+Other comprehensive loss  <NUM> (<NUM>) <NUM> (<NUM>),1
+Balance as of <DATE> <NUM> <DATE> <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Common and capital stock issued <NUM> <NUM> <NUM> <NUM> <NUM>,1
+Stock-based compensation expense  <NUM> <NUM> <NUM> <NUM>,1
+Tax withholding related to vesting of restricted stock units  (<NUM> ) <NUM> <NUM> (<NUM> ),1
+Alphabet share exchange (<NUM> ) <NUM> <NUM> <NUM> <NUM>,1
+Capital transactions with Alphabet  (<NUM> ) <NUM> <NUM> (<NUM> ),1
+capital stockholders <NUM> <NUM> <NUM> (<NUM> ) (<NUM>),1
+Net income  <NUM> <NUM> <NUM> <NUM>,1
+Other comprehensive loss  <NUM> (<NUM> ) <NUM> (<NUM> ),1
+Balance as of <DATE> <NUM> <DATE> <NUM> $<NUM> $(<NUM> ) $<NUM> $<NUM>,1
+Net income $<NUM> $<NUM> $<NUM>,1
+Depreciation and impairment of property and equipment <NUM> <NUM> <NUM>,1
+Amortization and impairment of intangible assets <NUM> <NUM> <NUM>,1
+Stock-based compensation expense <NUM> <NUM> <NUM>,1
+excess tax benefits from stock-based award activities (<NUM> ) (<NUM> ) (<NUM> ),1
+Deferred income taxes (<NUM> ) (<NUM> ) (<NUM> ),1
+Gain on divestiture of business (<NUM> ) (<NUM> ) <NUM>,1
+"(Gain) loss on marketable and non-marketable investments, net (<NUM> ) (<NUM> ) <NUM>",1
+Other <NUM> <NUM> <NUM>,1
+Accounts receivable (<NUM> ) (<NUM> ) (<NUM> ),1
+"Income taxes, net <NUM> <NUM> (<NUM> )",1
+"Prepaid revenue share, expenses and other assets (<NUM> ) <NUM> (<NUM> )",1
+Accounts payable <NUM> <NUM> <NUM>,1
+Accrued expenses and other liabilities <NUM> <NUM> <NUM>,1
+Accrued revenue share <NUM> <NUM> <NUM>,1
+Deferred revenue <NUM> (<NUM> ) <NUM>,1
+Net cash provided by operating activities <NUM> <NUM> <NUM>,1
+Investing activitiesPurchases of property and equipment (<NUM> ) (<NUM> ) (<NUM> ),1
+Purchases of marketable securities (<NUM> ) (<NUM> ) (<NUM> ),1
+maturities and sales of marketable securities <NUM> <NUM> <NUM>,1
+Purchases of non-marketable investments (<NUM> ) (<NUM> ) (<NUM> ),1
+Cash collateral related to securities lending (<NUM> ) <NUM> (<NUM> ),1
+Investments in reverse repurchase agreements <NUM> (<NUM> ) <NUM>,1
+Proceeds from divestiture of business <NUM> <NUM> <NUM>,1
+"Acquisitions, net of cash acquired, and purchases of intangibles and other assets (<NUM> ) (<NUM> ) (<NUM> )",1
+Net cash used in investing activities (<NUM> ) (<NUM> ) (<NUM> ),1
+Financing activitiesNet payments related to stock-based award activities (<NUM> ) (<NUM> ) (<NUM> ),1
+excess tax benefits from stock-based award activities <NUM> <NUM> <NUM>,1
+Adjustment Payment to Class C capital stockholders <NUM> <NUM> (<NUM>),1
+Capital transactions with Alphabet <NUM> <NUM> (<NUM> ),1
+"Proceeds from issuance of debt, net of costs <NUM> <NUM> <NUM>",1
+Repayments of debt (<NUM> ) (<NUM> ) (<NUM> ),1
+Net cash used in financing activities (<NUM> ) (<NUM> ) (<NUM> ),1
+effect of exchange rate changes on cash and cash equivalents (<NUM>) (<NUM> ) (<NUM> ),1
+Net increase (decrease) in cash and cash equivalents <NUM> (<NUM> ) (<NUM> ),1
+Cash and cash equivalents at beginning of period <NUM> <NUM> <NUM>,1
+Cash and cash equivalents at end of period $<NUM> $<NUM> $<NUM>,1
+Cash paid for taxes $<NUM> $<NUM> $<NUM>,1
+Cash paid for interest $ <NUM> $ <NUM> $ <NUM>,1
