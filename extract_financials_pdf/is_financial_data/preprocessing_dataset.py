@@ -10,7 +10,7 @@ def replace_numbers(text):
     text = re.sub(r'(<NUM>/<NUM>|<DATE>/<NUM>)', '<DATE>', text)
     return text
 
-input_file = "../data.csv"
+input_file = "data.csv"
 output_file = "preprocessed_data.csv"
 
 data = pd.read_csv(input_file)

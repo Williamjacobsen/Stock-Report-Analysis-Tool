@@ -1,5 +1,8 @@
 import json
 
+# Maybe use AI for this
+
+
 def filter_urls(urls, include_keywords, exclude_keywords, require_pdf=False):
     """
     Filters a list of URLs based on exclusion and inclusion keywords.

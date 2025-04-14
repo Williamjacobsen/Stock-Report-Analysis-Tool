@@ -11,7 +11,7 @@ def preprocess(text):
     text = re.sub(r'(<NUM>/<NUM>|<DATE>/<NUM>)', '<DATE>', text)
     return text.lower()
 
-data = pd.read_csv("../data.csv")
+data = pd.read_csv("data.csv")
 texts = [preprocess(t) for t in data['financial_data']]
 labels = data['truth_value']
 
