@@ -2,15 +2,22 @@ import csv
 import re
 import sys
 
-def preprocessor(line):
+def get_key(line):
     key_match = re.match(r'^[A-Za-z ,.]+', line)
     key = key_match.group(0).strip() if key_match else ""
     if not key.strip():
         key = "<EMPTY_KEY>"
+    return key
 
+def get_value(line):
     value_match = re.search(r'\(?\d[\d,.\)]*\)?', line)
     value = value_match.group(0) if value_match else "<EMPTY_VALUE>"
+    return value
 
+def preprocessor(line):
+    key = get_key(line)
+    value = get_value(line)
+    
     data = f'{key} : {value}'
     return data
 
